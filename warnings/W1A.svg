@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600mm"
+   height="599.90002mm"
+   viewBox="0 0 600 599.90002"
+   version="1.1"
+   id="svg698"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="W1A.svg"
+   inkscape:export-filename="/home/bagas/roadgeek-IDRoadSigns/warnings/1a-turnLeft.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs692">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath474">
+      <path
+         d="M 126.75,617.07 H 242.91 V 730.08 H 126.75 Z"
+         id="path472"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath484">
+      <path
+         d="M 0,0 H 173.23 V 172.96 H 0 Z"
+         id="path482"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22316913"
+     inkscape:cx="1133.8583"
+     inkscape:cy="1133.6693"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="-0.1"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata695">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.5455,457.76883)">
+    <g
+       transform="matrix(5.3661569,0,0,-5.35697,-582.83977,3449.3245)"
+       id="g468">
+      <g
+         id="g470"
+         clip-path="url(#clipPath474)">
+        <g
+           id="g476"
+           transform="matrix(1.5694,0,0,1.5694,128.32,617.07)">
+          <g
+             id="g478"
+             transform="scale(0.4156,0.4163)">
+            <g
+               id="g480"
+               clip-path="url(#clipPath484)">
+              <g
+                 id="g486">
+                <g
+                   id="g488">
+                  <g
+                     id="g490" />
+                </g>
+                <path
+                   d="m 6.9714,86.562 c -0.2285,-0.2 -0.2285,-0.6 0,-0.828 L 86.4,6.3337 c 0.2,-0.2286 0.6,-0.2286 0.829,0 L 166.63,85.734 c 0.23,0.228 0.23,0.628 0,0.828 L 87.229,165.99 c -0.229,0.23 -0.629,0.23 -0.829,0 z"
+                   style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+                   id="path492"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="M 84.4,163.73 9.2286,88.562 c -1.3143,-1.314 -1.3143,-3.485 0,-4.8 L 84.4,8.5623 c 1.314,-1.3143 3.486,-1.3143 4.8,0 l 75.2,75.1997 c 1.31,1.315 1.31,3.486 0,4.8 L 89.2,163.73 c -1.314,1.32 -3.486,1.32 -4.8,0 z"
+                   style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+                   id="path494"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="M 79.343,168.79 4.1714,93.619 c -4.114257,-4.114 -4.114257,-10.828 0,-14.914 L 79.343,3.5337 c 4.114,-4.11431 10.828,-4.11431 14.914,0 L 169.43,78.705 c 4.11,4.086 4.11,10.8 0,14.914 L 94.257,168.79 c -4.086,4.12 -10.8,4.12 -14.914,0 z M 84.4,163.73 9.2286,88.562 c -1.3143,-1.314 -1.3143,-3.485 0,-4.8 L 84.4,8.5623 c 1.314,-1.3143 3.486,-1.3143 4.8,0 l 75.2,75.1997 c 1.31,1.315 1.31,3.486 0,4.8 L 89.2,163.73 c -1.314,1.32 -3.486,1.32 -4.8,0 z"
+                   style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+                   id="path496"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 98.4,46.848 h 8.6 v 32.457 0.914 l -0.06,0.858 -0.05,0.857 -0.09,0.857 -0.09,0.8 -0.14,0.771 -0.14,0.772 -0.17,0.743 -0.2,0.742 -0.2,0.686 -0.23,0.686 -0.26,0.657 -0.28,0.629 -0.29,0.628 -0.31,0.6 -0.32,0.572 -0.37,0.571 -0.37,0.543 -0.37,0.514 -0.4,0.514 -0.43,0.486 -0.43,0.457 -0.46,0.457 -0.45,0.429 -0.49,0.429 -0.514,0.4 -0.515,0.4 -1.085,0.742 -1.115,0.658 L 53.343,120.68 71,88.419 c 1.886,-3.457 6.486,-4.4 7.943,-0.314 l 2.8,7.943 9.628,-5.429 C 95.657,88.191 98.4,83.505 98.4,78.991 Z m 8.6,0 h 10.03 v 34.057 c 0,8.029 -6.92,20.855 -14.12,24.225 l -11.653,5.49 4.143,4.57 c 2.429,2.69 0.971,5.74 -2.914,5.74 l -39.143,-0.25 43.828,-23.003 1.115,-0.658 1.085,-0.742 0.515,-0.4 0.514,-0.4 0.49,-0.429 0.45,-0.429 0.46,-0.457 0.43,-0.457 0.43,-0.486 0.4,-0.514 0.37,-0.514 0.37,-0.543 0.37,-0.571 0.32,-0.572 0.31,-0.6 0.29,-0.628 0.28,-0.629 0.26,-0.657 0.23,-0.686 0.2,-0.686 0.2,-0.742 0.17,-0.743 0.14,-0.772 0.14,-0.771 0.09,-0.8 0.09,-0.857 0.05,-0.857 0.06,-0.858 v -0.914 z"
+                   style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+                   id="path498"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -44,7 +44,8 @@
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:object-paths="false"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="8.0000001,195.66667"
        orientation="1,0"
@@ -80,6 +81,20 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="54.78261,60.000001"
+       orientation="0,1"
+       id="guide5454"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(160,0,255)" />
+    <sodipodi:guide
+       position="60.000001,66.000001"
+       orientation="1,0"
+       id="guide5456"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(160,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata875">
@@ -115,5 +130,16 @@
        cx="60"
        cy="237"
        r="40" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.150436"
+       y="230.09091"
+       id="text5460"><tspan
+         sodipodi:role="line"
+         id="tspan5458"
+         x="75.150436"
+         y="230.09091"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332">km</tspan></text>
   </g>
 </svg>

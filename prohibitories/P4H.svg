@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5273674"
-     inkscape:cx="166.29921"
+     inkscape:cx="154.84159"
      inkscape:cy="166.29921"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -117,7 +117,7 @@
        inkscape:label=""
        inkscape:color="rgb(84,219,94)" />
     <sodipodi:guide
-       position="56.000001,46.086956"
+       position="58.000001,46.086956"
        orientation="1,0"
        id="guide23"
        inkscape:locked="false"
@@ -171,15 +171,15 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332">km</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.38454056px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18461335"
-       x="59.078632"
-       y="222.0838"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.49962234px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21249044"
+       x="58.858109"
+       y="227.31001"
        id="text31"
-       transform="scale(0.86648001,1.1540947)"><tspan
+       transform="scale(0.88687057,1.1275603)"><tspan
          sodipodi:role="line"
          id="tspan29"
-         x="59.078632"
-         y="222.0838"
-         style="text-align:center;text-anchor:middle;stroke-width:1.18461335">80</tspan></text>
+         x="58.858109"
+         y="227.31001"
+         style="text-align:center;text-anchor:middle;stroke-width:1.21249044">80</tspan></text>
   </g>
 </svg>

@@ -1,0 +1,15 @@
+# Notes about center-aligned texts
+
+Some texts are horizontally center-aligned (particulary numerals). Often, due
+to the nature of the font we're using, if you edit the mentioned text, you'll
+find that they won't be center-aligned with respect to the frame.
+
+To workaround:
+
+- Create rectangle which encompasses the questioned text. The dimensions of the
+  rectangle are provided by guidelines.
+- Select it, then the text.
+- Click "Object -> Align and Distribute"
+- Set "Relative to:" to "First selected"
+- Choose "Center on vertical axis" and "Center on horizontal axis"
+

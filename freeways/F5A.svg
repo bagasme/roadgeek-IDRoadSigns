@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="45.700001mm"
-   height="60.5mm"
-   viewBox="0 0 45.700001 60.5"
+   height="56.75mm"
+   viewBox="0 0 45.700001 56.75"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2128788"
-     inkscape:cx="78.453955"
-     inkscape:cy="114.33071"
+     inkscape:zoom="2.3591043"
+     inkscape:cx="86.362206"
+     inkscape:cy="107.24409"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,58 +48,65 @@
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="false">
     <sodipodi:guide
-       position="23.315218,57.5"
+       position="23.315219,53.750001"
        orientation="0,1"
        id="guide8"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="16.9975,50.409166"
+       position="16.997501,46.659167"
        orientation="1,0"
        id="guide10"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(92,198,99)" />
     <sodipodi:guide
-       position="42.5,42.206521"
+       position="41.5,38.456521"
        orientation="1,0"
        id="guide12"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="14.904999,50.409166"
+       position="14.905,46.659167"
        orientation="0,1"
        id="guide18"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(92,198,99)" />
     <sodipodi:guide
-       position="28.7025,51.700067"
+       position="28.702501,47.950068"
        orientation="1,0"
        id="guide20"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(92,198,99)" />
     <sodipodi:guide
-       position="3.2,51.699999"
+       position="4.2,47.95"
        orientation="1,0"
        id="guide22"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="13.35817,3.2"
+       position="13.358171,-0.54999993"
        orientation="0,1"
        id="guide24"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="22.717391,45"
+       position="22.717392,43"
        orientation="0,1"
        id="guide17"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(127,0,255)" />
+    <sodipodi:guide
+       position="9.645257,7.5"
+       orientation="0,1"
+       id="guide26"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(127,0,255)" />
@@ -112,7 +119,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -151,5 +158,16 @@
          x="45.932621"
          y="47.449165"
          style="font-size:10.58333302px;text-align:center;text-anchor:middle;stroke-width:0.26458332">KM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.01102829px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39856669"
+       x="47.068844"
+       y="78.42244"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         x="47.068844"
+         y="78.42244"
+         style="stroke-width:0.39856669">44</tspan></text>
   </g>
 </svg>

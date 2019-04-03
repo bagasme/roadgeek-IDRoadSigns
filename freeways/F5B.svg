@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.2145742"
      inkscape:cx="86.362206"
-     inkscape:cy="107.24409"
+     inkscape:cy="53.057605"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -124,6 +124,20 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(133,109,37)" />
+    <sodipodi:guide
+       position="0.7,1"
+       orientation="0,1"
+       id="guide870"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(214,44,89)" />
+    <sodipodi:guide
+       position="33.930527,11.5"
+       orientation="0,1"
+       id="guide872"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(214,44,89)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -187,5 +201,16 @@
        d="m 23.784523,82.084821 v 0.04872 11.524664 h 44.3 V 82.084816 Z"
        id="path866"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.031891"
+       y="88.015175"
+       id="text876"><tspan
+         sodipodi:role="line"
+         id="tspan874"
+         x="35.031891"
+         y="88.015175"
+         style="stroke-width:0.26458332;fill:#ffffff">600</tspan></text>
   </g>
 </svg>

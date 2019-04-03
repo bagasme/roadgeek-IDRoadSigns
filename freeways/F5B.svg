@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.2145742"
      inkscape:cx="86.362206"
-     inkscape:cy="53.057605"
+     inkscape:cy="89.181931"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -203,14 +203,14 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="35.031891"
-       y="88.015175"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.12968159px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.952492"
+       y="92.926781"
        id="text876"><tspan
          sodipodi:role="line"
          id="tspan874"
-         x="35.031891"
-         y="88.015175"
-         style="stroke-width:0.26458332;fill:#ffffff">600</tspan></text>
+         x="45.952492"
+         y="92.926781"
+         style="fill:#ffffff;stroke-width:0.26458332">600</tspan></text>
   </g>
 </svg>

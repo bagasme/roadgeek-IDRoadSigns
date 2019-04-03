@@ -5,3 +5,14 @@ Based on [Peraturan Menteri Perhubungan No.13/2014](http://hubdat.dephub.go.id/k
 
 Licensed under CC0 Public Domain Dedication, see LICENSE for details
  
+## FAQS
+- **What's this?**
+
+This is Indonesian road signs repo.
+
+- **Why does it matter?**
+
+Every countries/states have their own road signs. In Indonesia, we used mashups
+from MUTCD & Japanese-style (for warnings), Vienna Convention (for regulatories
+and mandatories), and our custom-made (for freeways)
+

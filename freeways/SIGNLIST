@@ -1,6 +1,6 @@
 # list of signs at freeways/motorways/expressways
-# most of them are customary, so whether possible we also give their spec
-# files
+# most of them are customary, so whether possible we also give their specs
+# (in form of guidelines)
 
 F4A -> start of freeway (awal jalan tol)
 F4B -> end of freeway (akhir jalan tol)

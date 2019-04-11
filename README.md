@@ -26,18 +26,12 @@ There are road signs compilation from
 it lacks of SVG version of them. So, we decided to recreate them based on the
 regulation document.
 
-- **Why the sign collections are mashup of signs?**
-
+- **Why are the sign collections mashup of signs?**
 Up until 1970, we *closely* follows Dutch road sign rules (for we are their
 former colony). *Remember History of Indonesia?*
-
 Currently our road signs are based on:
-
   - MUTCD (USA) [for warning signs]
-
   - Vienna Convention (Europe) [for prohibitory and mandatory signs]
-
   - New Zealand and Japanese design
-
   - Custom-made [for signs in freeways]
 

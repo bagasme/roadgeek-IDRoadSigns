@@ -32,8 +32,12 @@ Up until 1970, we *closely* follows Dutch road sign rules (for we are their
 former colony). *Remember History of Indonesia?*
 
 Currently our road signs are based on:
--- MUTCD (USA) [for warning signs]
--- Vienna Convention (Europe) [for prohibitory and mandatory signs]
--- New Zealand and Japanese design
--- Custom-made [for signs in freeways]
+
+  - MUTCD (USA) [for warning signs]
+
+  - Vienna Convention (Europe) [for prohibitory and mandatory signs]
+
+  - New Zealand and Japanese design
+
+  - Custom-made [for signs in freeways]
 

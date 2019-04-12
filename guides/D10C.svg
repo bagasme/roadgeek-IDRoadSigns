@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="D10B.svg">
+   sodipodi:docname="D10C.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -118,7 +118,7 @@
          inkscape:connector-curvature="0"
          id="path865"
          d="m 39.304688,32.951172 v 0.002 H 189.65039 L 171.16992,0.9453125 H 57.783203 Z"
-         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
     <text
        xml:space="preserve"
@@ -130,7 +130,7 @@
          id="tspan834"
          x="32.831665"
          y="69.42205"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';fill:#ffffff;stroke-width:0.26458332">NASIONAL</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';fill:#ffffff;stroke-width:0.26458332">PROVINSI</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

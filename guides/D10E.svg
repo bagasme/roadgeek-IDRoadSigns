@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="D10B.svg">
+   sodipodi:docname="D10E.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5620363"
-     inkscape:cx="114.47688"
+     inkscape:cx="107.64638"
      inkscape:cy="99.139891"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -114,23 +114,23 @@
          d="M 189.65039,32.953125 H 39.304688 L 1.0917969,99.140625 57.783203,197.33398 H 171.16992 l 56.69336,-98.193355 z"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <path
-         transform="matrix(0.26458333,0,0,0.26458333,2.6531164,62.105465)"
          inkscape:connector-curvature="0"
          id="path865"
          d="m 39.304688,32.951172 v 0.002 H 189.65039 L 171.16992,0.9453125 H 57.783203 Z"
-         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         transform="matrix(0.26458333,0,0,0.26458333,2.6531164,62.105465)" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Roadgeek 2005 Series C';-inkscape-font-specification:'Roadgeek 2005 Series C';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="32.831665"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Roadgeek 2005 Series C';-inkscape-font-specification:'Roadgeek 2005 Series C';text-align:center;letter-spacing:-0.1984375px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.801369"
        y="69.42205"
        id="text836"><tspan
          sodipodi:role="line"
          id="tspan834"
-         x="32.831665"
+         x="32.801369"
          y="69.42205"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';fill:#ffffff;stroke-width:0.26458332">NASIONAL</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';letter-spacing:0px;fill:#ffffff;stroke-width:0.26458332">KOTA</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

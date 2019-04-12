@@ -4,4 +4,8 @@
 # mostly only Asian Highway routes and national routes are signed in real life
 D10A -> Asian Highway route number (nomor rute Asia)
 # national, provincial, and county/municipal route sign are hexagonal shaped
+# we use "county" instead of "regency" to refer to "kabupaten"
 D10B -> National route number (nomor rute nasional)
+D10C -> Provincial route number (nomor rute provinsi)
+D10D -> County route number (nomor rute kabupaten)
+D10E -> Municipal route number (nomor rute kota)

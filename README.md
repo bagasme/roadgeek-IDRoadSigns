@@ -35,3 +35,21 @@ Currently our road signs are based on:
   - New Zealand and Japanese design
   - Custom-made [for signs in freeways]
 
+- **Which font used in these road signs?**
+
+In signs based on the regulation, we used Clearview Highway font. 
+
+For signs in freeways, FHWA Series fonts are used instead.
+
+However, there is an exception: Limiting prohibitory signs (particulary speed 
+and tonage [weight] limit) uses Arial).
+
+- **Where can I get those fonts?**
+
+There is 
+[Roadgeek 2005 Fonts](https://www.fontspace.com/michael-d-adams/roadgeek-2005) 
+which contain Clearview Highway fonts (as Series 1B to 6W) and FHWA Series 
+fonts (as Series B to F). The Roadgeek fonts are used through the repo.
+
+For Arial, the `ttf-mscorefonts-installer` or similar (depending on your 
+distro) can be installed. Windows users should have Arial font installed.

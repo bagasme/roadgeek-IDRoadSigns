@@ -5,3 +5,4 @@
 D10A -> Asian Highway route number (nomor rute Asia)
 # national, provincial, and county/municipal route sign are hexagonal shaped
 D10B -> National route number (nomor rute nasional)
+D10C -> Provincial route number (nomor rute provinsi)

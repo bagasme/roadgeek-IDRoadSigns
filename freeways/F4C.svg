@@ -36,11 +36,27 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="5.4696342,51.962"
+       orientation="0,1"
+       id="guide818"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="19.909469,44.167"
+       orientation="0,1"
+       id="guide828"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -70,19 +86,16 @@
      id="layer1"
      transform="translate(-75,-122.51924)">
     <path
-       sodipodi:type="star"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 40.775391,29.458984 1.0917969,98.195312 57.238281,195.44531 H 169.5332 l 56.14649,-97.249998 -39.6836,-68.736328 z"
+       id="path919"
+       transform="matrix(0.26458333,0,0,0.26458333,75,122.51924)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 40.775391,29.458984 H 185.99609 L 169.5332,0.9453125 H 57.238281 Z"
        id="path815"
-       sodipodi:sides="6"
-       sodipodi:cx="105"
-       sodipodi:cy="148.5"
-       sodipodi:r1="29.711325"
-       sodipodi:r2="25.730764"
-       sodipodi:arg1="1.0471976"
-       sodipodi:arg2="1.5707963"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 119.85566,174.23076 -29.711324,0 L 75.288675,148.5 l 14.855664,-25.73076 29.711321,0 14.85566,25.73076 z" />
+       transform="matrix(0.26458333,0,0,0.26458333,75,122.51924)"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

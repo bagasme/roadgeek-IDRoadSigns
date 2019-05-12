@@ -44,7 +44,8 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="false">
     <sodipodi:guide
        position="30.775348,54"
        orientation="0,1"
@@ -86,6 +87,11 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(172,204,77)" />
+    <sodipodi:guide
+       position="36.143141,22.067595"
+       orientation="0,1"
+       id="guide3728"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -121,11 +127,17 @@
        cx="105"
        cy="148.5"
        r="30" />
-    <circle
+    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 61.251953,39.291016 a 90.708661,90.708661 0 0 0 -38.574219,74.095704 90.708661,90.708661 0 0 0 90.708986,90.70703 90.708661,90.708661 0 0 0 90.70703,-90.70703 90.708661,90.708661 0 0 0 -38.50977,-74.119142 l -52.00781,21.132813 -0.18945,0.07227 z"
+       id="path3739"
+       transform="matrix(0.26458333,0,0,0.26458333,75,118.5)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 61.251953,39.291016 52.134767,21.18164 0.18945,-0.07227 52.00781,-21.132813 A 90.708661,90.708661 0 0 0 113.38672,22.677734 90.708661,90.708661 0 0 0 61.251953,39.291016 Z"
        id="path3712"
-       cx="105"
-       cy="148.5"
-       r="24" />
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,75,118.5)" />
   </g>
 </svg>

@@ -39,7 +39,54 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="30.775348,54"
+       orientation="0,1"
+       id="guide3714"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,35.069583"
+       orientation="1,0"
+       id="guide3716"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="54,31.252485"
+       orientation="1,0"
+       id="guide3718"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.775348,5.9999997"
+       orientation="0,1"
+       id="guide3720"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30,31.968191"
+       orientation="1,0"
+       id="guide3722"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(169,75,181)" />
+    <sodipodi:guide
+       position="35.54672,44"
+       orientation="0,1"
+       id="guide3724"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(172,204,77)" />
+    <sodipodi:guide
+       position="40.198807,16"
+       orientation="0,1"
+       id="guide3726"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(173,204,77)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>

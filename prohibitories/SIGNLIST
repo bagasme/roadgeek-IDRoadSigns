@@ -4,3 +4,5 @@
 P4H -> maximum speed limit (batas kecepatan maksimum)
 P4H-a -> maximum speed limit (batas kecepatan maksimum) [3-digit]
 
+# dimension limit
+P2D2 -> vehicle height limit (batas tinggi kendaraan)

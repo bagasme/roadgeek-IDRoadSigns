@@ -11,13 +11,10 @@ Licensed under CC0 Public Domain Dedication, see LICENSE for details
 - **What's this?**
 
 This is Indonesian road signs repo.
-
-- **Why does it matter?**
-
-Every countries/states have their own road signs. Most of them have 
-well-documented *standard road signs*. Indonesia have them, too.
-We choose to create this repo for sharing to every parties who wishes to 
-modify or remaster them.
+As you may know, every countries/states have their own road signs. 
+Most of them have well-documented *standard road signs*. Indonesia have 
+them, too. We choose to create this repo for sharing to every parties 
+who wishes to modify or remaster them.
 
 - **Why did you choose to create them (from scratch)?**
 
@@ -28,7 +25,7 @@ regulation document.
 
 - **Why are the sign collections mashup of signs?**
 Up until 1970, we *closely* follows Dutch road sign rules (for we are their
-former colony). *Remember History of Indonesia?*
+former colony).
 Currently our road signs are based on:
   - MUTCD (USA) [for warning signs]
   - Vienna Convention (Europe) [for prohibitory and mandatory signs]

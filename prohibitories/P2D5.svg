@@ -44,7 +44,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="false"
+     inkscape:bbox-paths="true"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-smooth-nodes="false">
@@ -77,28 +77,28 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="33.064579,49.999999"
+       position="25.573385,47.626168"
        orientation="0,1"
        id="guide824"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(38,111,51)" />
     <sodipodi:guide
-       position="12,34.614481"
+       position="9.8377859,40.81409"
        orientation="1,0"
        id="guide826"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(38,111,51)" />
     <sodipodi:guide
-       position="35.389432,16"
+       position="28.027397,18.373836"
        orientation="0,1"
        id="guide828"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(38,111,51)" />
     <sodipodi:guide
-       position="39.999999,30.998043"
+       position="42.322664,32.677103"
        orientation="1,0"
        id="guide830"
        inkscape:locked="false"
@@ -153,5 +153,16 @@
        cx="76.729164"
        cy="81.931541"
        r="30" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.79583"
+       y="96.049706"
+       id="text846"><tspan
+         sodipodi:role="line"
+         id="tspan844"
+         x="69.79583"
+         y="96.049706"
+         style="font-size:42.33333206px;stroke-width:0.26458332">8</tspan></text>
   </g>
 </svg>

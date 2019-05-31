@@ -1,4 +1,9 @@
 # mandatory sign lists
 
+# directional
+M1A -> direction to the left (perintah ke arah kiri)
+M1B -> direction to the right (perintah ke arah kanan)
+
+# minimum speed limit
 M4 -> minimum speed limit (batas kecepatan minimal)
 

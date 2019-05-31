@@ -39,7 +39,86 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false">
+    <sodipodi:guide
+       position="38.101761,59.999999"
+       orientation="0,1"
+       id="guide814"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.9999999,39.264187"
+       orientation="1,0"
+       id="guide816"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="59.999999,26.090019"
+       orientation="1,0"
+       id="guide818"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="31.902152,5.9999999"
+       orientation="0,1"
+       id="guide820"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="33.064579,49.999999"
+       orientation="0,1"
+       id="guide824"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(38,111,51)" />
+    <sodipodi:guide
+       position="12,34.614481"
+       orientation="1,0"
+       id="guide826"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(38,111,51)" />
+    <sodipodi:guide
+       position="35.389432,16"
+       orientation="0,1"
+       id="guide828"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(38,111,51)" />
+    <sodipodi:guide
+       position="39.999999,30.998043"
+       orientation="1,0"
+       id="guide830"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(38,111,51)" />
+    <sodipodi:guide
+       position="42.999999,39.780821"
+       orientation="1,0"
+       id="guide836"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(21,129,150)" />
+    <sodipodi:guide
+       position="50.759295,52.999999"
+       orientation="0,1"
+       id="guide838"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(21,129,150)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>

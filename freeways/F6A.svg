@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -17,7 +18,21 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="F6A.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath825">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 14 247 C 11.784001 247 10 248.784 10 251 L 10 283 C 10 285.216 11.784001 287 14 287 L 186 287 C 188.216 287 190 285.216 190 283 L 190 251 C 190 248.784 188.216 247 186 247 L 14 247 z "
+         xlink:href="#rect812"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path827"
+         inkscape:href="#rect812"
+         d="m 14,247 c -2.215999,0 -4,1.784 -4,4 v 32 c 0,2.216 1.784001,4 4,4 h 172 c 2.216,0 4,-1.784 4,-4 v -32 c 0,-2.216 -1.784,-4 -4,-4 z" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45522587"
-     inkscape:cx="396.85039"
-     inkscape:cy="561.25984"
+     inkscape:zoom="1.6712847"
+     inkscape:cx="377.95273"
+     inkscape:cy="113.38583"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +52,8 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="false">
     <sodipodi:guide
        position="10,74.839288"
        orientation="1,0"
@@ -67,28 +83,28 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="12,82.398812"
+       position="11,82.398812"
        orientation="1,0"
        id="guide824"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(60,163,122)" />
     <sodipodi:guide
-       position="188,123.97619"
+       position="189,123.97619"
        orientation="1,0"
        id="guide826"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(60,163,122)" />
     <sodipodi:guide
-       position="48,48"
+       position="48,49"
        orientation="0,1"
        id="guide828"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(60,163,122)" />
     <sodipodi:guide
-       position="121.70833,12"
+       position="121.70833,11"
        orientation="0,1"
        id="guide832"
        inkscape:locked="false"
@@ -131,5 +147,15 @@
        y="247"
        rx="3.9999974"
        ry="3.9999974" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-1.6253299"
+       inkscape:original="M 14 247 C 11.784001 247 10 248.784 10 251 L 10 283 C 10 285.216 11.784001 287 14 287 L 186 287 C 188.216 287 190 285.216 190 283 L 190 251 C 190 248.784 188.216 247 186 247 L 14 247 z "
+       xlink:href="#rect812"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path821"
+       inkscape:href="#rect812"
+       d="m 14,248.625 c -1.34368,0 -2.375,1.03132 -2.375,2.375 v 32 c 0,1.34368 1.03132,2.375 2.375,2.375 h 172 c 1.34368,0 2.375,-1.03132 2.375,-2.375 v -32 c 0,-1.34368 -1.03132,-2.375 -2.375,-2.375 z"
+       clip-path="url(#clipPath825)" />
   </g>
 </svg>

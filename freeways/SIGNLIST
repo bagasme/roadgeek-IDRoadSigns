@@ -5,6 +5,7 @@
 F4A -> start of freeway (awal jalan tol)
 F4B -> end of freeway (akhir jalan tol)
 F4C -> start of freeway name (awal nama jalan tol)
+F4D -> end of freeway name (akhir nama jalan tol)
 
 # note that F10C sign is similar to D10 series 
 # our freeways are unnumbered in reality, though

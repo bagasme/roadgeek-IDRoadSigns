@@ -25,7 +25,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6771644"
+     inkscape:zoom="1.1859343"
      inkscape:cx="377.95276"
      inkscape:cy="188.97638"
      inkscape:document-units="mm"
@@ -66,6 +66,34 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7,59.568016"
+       orientation="1,0"
+       id="guide1430"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(98,255,0)" />
+    <sodipodi:guide
+       position="100.84173,52.5"
+       orientation="0,1"
+       id="guide1434"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(98,255,0)" />
+    <sodipodi:guide
+       position="193,45.066"
+       orientation="1,0"
+       id="guide1436"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(98,255,0)" />
+    <sodipodi:guide
+       position="131.85279,47.5"
+       orientation="0,1"
+       id="guide1438"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(98,255,0)" />
   </sodipodi:namedview>
   <metadata
      id="metadata853">
@@ -96,12 +124,18 @@
      id="layer1">
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect1428"
+       id="rect1447"
        width="180"
        height="40"
        x="10"
        y="227"
        rx="3.9999974"
        ry="3.9999974" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 688.12891,857.95312 37.960938,996.15039 c 1.033397,7.35491 7.304385,12.98441 14.953124,12.98441 H 67.765625 L 717.94336,870.93555 c -1.03403,-7.35415 -7.30294,-12.98243 -14.95117,-12.98243 z"
+       transform="scale(0.26458333)"
+       id="rect1428"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

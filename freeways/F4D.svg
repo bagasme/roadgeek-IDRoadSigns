@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1859343"
-     inkscape:cx="338.74318"
-     inkscape:cy="178.85777"
+     inkscape:cx="325.67332"
+     inkscape:cy="175.4849"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
@@ -147,6 +147,34 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(141,120,31)" />
+    <sodipodi:guide
+       position="48,52.500001"
+       orientation="1,0"
+       id="guide847"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(141,120,31)" />
+    <sodipodi:guide
+       position="105.52685,65"
+       orientation="0,1"
+       id="guide849"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(141,120,31)" />
+    <sodipodi:guide
+       position="83.439837,35"
+       orientation="0,1"
+       id="guide851"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(141,120,31)" />
+    <sodipodi:guide
+       position="182,41.050617"
+       orientation="1,0"
+       id="guide853"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(141,120,31)" />
   </sodipodi:namedview>
   <metadata
      id="metadata853">
@@ -194,12 +222,6 @@
        inkscape:href="#rect1447"
        d="m 14,228.78516 c -1.258086,0 -2.214844,0.95675 -2.214844,2.21484 v 32 c 0,1.25809 0.956758,2.21484 2.214844,2.21484 h 172 c 1.25809,0 2.21484,-0.95675 2.21484,-2.21484 v -32 c 0,-1.25809 -0.95675,-2.21484 -2.21484,-2.21484 z"
        clip-path="url(#clipPath832)" />
-    <path
-       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 688.12891,857.95312 37.960938,996.15039 c 1.033397,7.35491 7.304385,12.98441 14.953124,12.98441 H 67.765625 L 717.94336,870.93555 c -1.03403,-7.35415 -7.30294,-12.98243 -14.95117,-12.98243 z"
-       transform="scale(0.26458333)"
-       id="rect1428"
-       inkscape:connector-curvature="0" />
     <g
        transform="matrix(0.23106001,0,0,-0.23533714,14.038938,267.26006)"
        id="g30">
@@ -229,5 +251,27 @@
          style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m 76.971,149.96 h 18.4 l 5.599,-39.68 H 76.971 Z" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.09515"
+       y="243.317"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="115.09515"
+         y="243.317"
+         style="font-size:12.69999981px;fill:#ffffff;stroke-width:0.26458332">Jalan Tol</tspan><tspan
+         sodipodi:role="line"
+         x="115.09515"
+         y="259.19199"
+         style="font-size:12.69999981px;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan859">JAKARTA-CIKAMPEK</tspan></text>
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 688.12891,857.95312 37.960938,996.15039 c 1.033397,7.35491 7.304385,12.98441 14.953124,12.98441 H 67.765625 L 717.94336,870.93555 c -1.03403,-7.35415 -7.30294,-12.98243 -14.95117,-12.98243 z"
+       transform="scale(0.26458333)"
+       id="rect1428"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

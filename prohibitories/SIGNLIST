@@ -6,6 +6,7 @@ P4H-a -> maximum speed limit (batas kecepatan maksimum) [3-digit]
 
 # dimension limit
 P2D2 -> vehicle height limit (batas tinggi kendaraan)
+P2D3 -> vehicle width limit (batas lebar kendaraan)
 
 # tonnage limit
 P2D5 -> maximum total weight limit (batas berat kendaraan maksimum)

@@ -1,5 +1,8 @@
 # prohibitory signs
 
+# no pass along signs
+P1B -> yield priority (wajib memberi prioritas dari arah yang diberi prioritas)
+
 # speed limit sign use Arial font
 P4H -> maximum speed limit (batas kecepatan maksimum)
 P4H-a -> maximum speed limit (batas kecepatan maksimum) [3-digit]

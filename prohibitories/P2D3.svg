@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
-     inkscape:cx="113.38583"
-     inkscape:cy="113.38583"
+     inkscape:cx="106.50724"
+     inkscape:cy="111.61071"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,53 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="6,27.710372"
+       orientation="1,0"
+       id="guide1419"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31.585127,54"
+       orientation="0,1"
+       id="guide1421"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="54,32.172212"
+       orientation="1,0"
+       id="guide1423"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.641879,5.9999997"
+       orientation="0,1"
+       id="guide1425"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30,32.29"
+       orientation="1,0"
+       id="guide1427"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(169,75,181)" />
+    <sodipodi:guide
+       position="16,37.808219"
+       orientation="1,0"
+       id="guide821"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(172,204,77)" />
+    <sodipodi:guide
+       position="44,28.532289"
+       orientation="1,0"
+       id="guide823"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(172,204,77)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata829">
     <rdf:RDF>
@@ -48,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>

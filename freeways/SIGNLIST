@@ -15,3 +15,6 @@ F10C-a -> three-digit version of F4C
 F5A -> location marker (penunjuk kilometer)
 F5B -> location marker [with meters]
 
+# informational signs
+F6A -> vehicle restriction info in freeway (informasi pembatasan kendaraan
+pada awal masuk jalan tol)

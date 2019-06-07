@@ -35,3 +35,20 @@ The result should be the final marker.
 - Either recreate the exacly same markee, or restore the duplicate
 markee created earlier to the same place as the original one.
 
+# Notes about inner strokes
+[from commit c9bfe32c0d0308eaaa84000d464ed3aaa036cdcf]
+
+SVG specification doesn't allow inner strokes, so to create them in
+Inkscape:
+- Select an object you wish to create the stroke
+- `Path -> Linked Offset`
+- Change the linked offset path to no fill with desired stroke width,
+then adjust the offset distance (gap from edge of the parent object)
+- Select the original object again, then create another linked offset
+path.
+- Move the Z index of the original object below two linked offfsets
+created above.
+- Select two linked offsetts of the object, then `Object -> Clip -> Set`
+See https://superuser.com/questions/128814/how-to-create-an-inner-border-stroke-in-inkscape
+for more information.
+

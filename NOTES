@@ -13,3 +13,25 @@ To workaround:
 - Set "Relative to:" to "First selected"
 - Choose "Center on vertical axis" and "Center on horizontal axis"
 
+# Notes about end markers
+[from commit 59cab1e83a4077f8013df5adf8557180d735227d]
+
+Some signs are "start of-end" of signs pair (such as F4A-F4B). The "end
+of" signs add straight line marker (often red) to their "start of"
+counterpart.
+
+To create the marker:
+
+- Create the object which will be marked (the markee)
+- (Optional) Duplicate the markee so that you can restore it later.
+- Create the rectangular marker, which its width is greater than the
+markee, and its height as you specified. Give the marker red fill
+without stroke.
+- Center-align the marker relative to the markee.
+- Rotate the marker so that it touch both sides of the corner of the
+markee, either clockwise or counter-clockwise.
+- Select both the marker and the markee, then `Path -> Intersection`.
+The result should be the final marker.
+- Either recreate the exacly same markee, or restore the duplicate
+markee created earlier to the same place as the original one.
+

@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -17,7 +18,21 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="D1A-a.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath848">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 24 217 C 21.784 217 20 218.784 20 221 L 20 273 C 20 275.216 21.784 277 24 277 L 116 277 C 118.216 277 120 275.216 120 273 L 120 221 C 120 218.784 118.216 217 116 217 L 24 217 z "
+         xlink:href="#rect29"
+         style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path850"
+         inkscape:href="#rect29"
+         d="m 24,217 c -2.216,0 -4,1.784 -4,4 v 52 c 0,2.216 1.784,4 4,4 h 92 c 2.216,0 4,-1.784 4,-4 v -52 c 0,-2.216 -1.784,-4 -4,-4 z" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="355.71429"
-     inkscape:cy="548.57143"
+     inkscape:zoom="1.5933718"
+     inkscape:cx="264.56693"
+     inkscape:cy="188.97638"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +50,40 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true">
+    <sodipodi:guide
+       position="22,54.631265"
+       orientation="1,0"
+       id="guide836"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="54.631262,78"
+       orientation="0,1"
+       id="guide838"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="118,46.162589"
+       orientation="1,0"
+       id="guide840"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="73.893349,22"
+       orientation="0,1"
+       id="guide842"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -62,5 +110,25 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect29"
+       width="100"
+       height="60"
+       x="20"
+       y="217"
+       rx="4"
+       ry="4" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-2.0000002"
+       inkscape:original="M 24 217 C 21.784 217 20 218.784 20 221 L 20 273 C 20 275.216 21.784 277 24 277 L 116 277 C 118.216 277 120 275.216 120 273 L 120 221 C 120 218.784 118.216 217 116 217 L 24 217 z "
+       xlink:href="#rect29"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path844"
+       inkscape:href="#rect29"
+       d="m 24,219 c -1.142594,0 -2,0.85741 -2,2 v 52 c 0,1.14259 0.857406,2 2,2 h 92 c 1.14259,0 2,-0.85741 2,-2 v -52 c 0,-1.14259 -0.85741,-2 -2,-2 z"
+       clip-path="url(#clipPath848)" />
+  </g>
 </svg>

@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.5771665"
      inkscape:cx="114.47688"
-     inkscape:cy="99.13989"
+     inkscape:cy="99.139889"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g825"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -110,7 +110,7 @@
       <g
          id="g825">
         <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
            d="M 189.65039,32.953125 H 39.304688 L 1.0917969,99.140625 57.783203,197.33398 H 171.16992 l 56.69336,-98.193355 z"
            id="path893"
            inkscape:connector-curvature="0"

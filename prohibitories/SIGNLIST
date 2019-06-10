@@ -25,4 +25,11 @@ P2D5 -> maximum total weight limit (batas berat kendaraan maksimum)
 # - vehicle length: 18.000mm
 # - vehicle height: 4.200mm
 # - vehicle heaviest axle load: 10 tons
+#
+# road class II:
+# - vehicle width: 2.500mm
+# - vehicle length: 18.000mm
+# - vehicle height: 4.200mm
+# - vehicle heaviest axle load: 8 tons
 P2D10 -> road class I (kelas jalan I)
+P2D11 -> road class II (kelas jalan II)

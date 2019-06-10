@@ -6,3 +6,4 @@ W1A -> turn left (tikungan ke kiri)
 W1B -> turn right (tikungan ke kanan)
 
 W8C -> free height warning (tinggi ruang bebas)
+W8D -> free width warning (lebar ruang bebas)

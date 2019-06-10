@@ -14,3 +14,15 @@ P2D3 -> vehicle width limit (batas lebar kendaraan)
 
 # tonnage limit
 P2D5 -> maximum total weight limit (batas berat kendaraan maksimum)
+
+# road class limit
+# in the regulation (description of signs), maximum vehicle dimensions
+# limits are specified in millimeters and maximum vehicle heaviest axle
+# load in (metric) tons.
+#
+# road class I:
+# - vehicle width: 2.500mm
+# - vehicle length: 18.000mm
+# - vehicle height: 4.200mm
+# - vehicle heaviest axle load: 10 tons
+P2D10 -> road class I (kelas jalan I)

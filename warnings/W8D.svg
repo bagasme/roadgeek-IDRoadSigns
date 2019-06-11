@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6043211"
-     inkscape:cx="159.25739"
-     inkscape:cy="159.25739"
+     inkscape:cx="149.59598"
+     inkscape:cy="156.76412"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -99,11 +99,11 @@
        inkscape:connector-curvature="0"
        id="path828"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       d="M 80.475776,152.08093 H 74.86315 v -7.09637 h 5.677185 l -0.774168,-5.99971 v -1.29029 l 0.06464,-0.0647 q 0.06464,0 0.06464,-0.0647 0.06464,0 0.193855,0 0.12928,-0.0647 0.193229,-0.0647 0.06464,0 0.06464,0.0647 0,0 0.06464,0 h 0.12928 L 90.86315,148.53239 80.541091,159.49955 H 80.283238 79.89617 q 0,-0.0647 -0.06464,-0.0647 l -0.06464,-0.0647 v -1.29027 z" />
+       d="M 80.124987,151.85713 H 74.86315 v -6.65284 h 5.322361 l -0.725783,-5.62473 v -1.20965 l 0.0606,-0.0606 q 0.0606,0 0.0606,-0.0607 0.0606,0 0.18174,0 0.1212,-0.0607 0.181152,-0.0607 0.0606,0 0.0606,0.0607 0,0 0.0606,0 h 0.1212 l 9.67693,10.28178 -9.67693,10.28171 h -0.241737 -0.362877 q 0,-0.0607 -0.0606,-0.0607 l -0.0606,-0.0606 v -1.20963 z" />
     <path
        inkscape:connector-curvature="0"
        id="path840"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       d="m 130.23274,158.07972 v 1.29024 l -0.12922,0.12923 h -0.38707 -0.25784 l -10.32176,-10.96685 10.32176,-10.96692 h 0.12922 q 0.0646,0 0.12923,-0.0646 0.0646,0 0.12923,0.0646 0.0646,0 0.12922,0 h 0.12923 q 0.12922,0 0.12922,0.12923 v 1.29018 l -0.70958,5.99954 h 5.61247 v 7.09624 h -5.61247 z" />
+       d="m 130.53925,157.48101 v 1.2096 l -0.12115,0.12115 h -0.36288 -0.24172 l -9.67665,-10.28142 9.67665,-10.28149 h 0.12114 q 0.0606,0 0.12116,-0.0606 0.0606,0 0.12115,0.0606 0.0606,0 0.12114,0 h 0.12116 q 0.12114,0 0.12114,0.12115 v 1.20955 l -0.66523,5.62457 h 5.26169 v 6.65272 h -5.26169 z" />
   </g>
 </svg>

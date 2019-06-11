@@ -63,6 +63,13 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(215,0,255)" />
+    <sodipodi:guide
+       position="40.075361,35.999999"
+       orientation="0,1"
+       id="guide831"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,95)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -123,5 +130,16 @@
          x="104.99515"
          y="150.08044"
          style="font-size:28.22222137px;stroke-width:0.26458332">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.00353"
+       y="170.27196"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="105.00353"
+         y="170.27196"
+         style="font-size:28.22222137px;stroke-width:0.26458332">m</tspan></text>
   </g>
 </svg>

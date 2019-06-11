@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6043211"
-     inkscape:cx="149.59599"
-     inkscape:cy="156.76413"
+     inkscape:cx="159.2574"
+     inkscape:cy="159.2574"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -109,16 +109,19 @@
        rx="3.7"
        ry="3.7"
        transform="rotate(45)" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path828"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       d="M 80.475777,152.08088 H 74.86315 v -7.09636 h 5.677186 l -0.774169,-5.99971 v -1.2903 l 0.06464,-0.0646 q 0.06464,0 0.06464,-0.0647 0.06464,0 0.193856,0 0.12928,-0.0648 0.193229,-0.0648 0.06464,0 0.06464,0.0648 0,0 0.06464,0 h 0.12928 L 90.863151,148.53244 80.541092,159.4996 H 80.283239 79.89617 q 0,-0.0648 -0.06464,-0.0648 l -0.06464,-0.0646 v -1.29027 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path840"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       d="m 130.23275,158.07973 v 1.29024 l -0.12923,0.12922 h -0.38707 -0.25784 l -10.32176,-10.96684 10.32176,-10.96693 h 0.12922 q 0.0646,0 0.12924,-0.0646 0.0646,0 0.12922,0.0646 0.0646,0 0.12922,0 h 0.12924 q 0.12921,0 0.12921,0.12923 v 1.29019 l -0.70957,5.99954 h 5.61246 v 7.09623 h -5.61246 z" />
+    <g
+       id="g825">
+      <path
+         d="M 80.475777,152.08088 H 74.86315 v -7.09636 h 5.677186 l -0.774169,-5.99971 v -1.2903 l 0.06464,-0.0646 q 0.06464,0 0.06464,-0.0647 0.06464,0 0.193856,0 0.12928,-0.0648 0.193229,-0.0648 0.06464,0 0.06464,0.0648 0,0 0.06464,0 h 0.12928 L 90.863151,148.53244 80.541092,159.4996 H 80.283239 79.89617 q 0,-0.0648 -0.06464,-0.0648 l -0.06464,-0.0646 v -1.29027 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="path828"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 130.23275,158.07973 v 1.29024 l -0.12923,0.12922 h -0.38707 -0.25784 l -10.32176,-10.96684 10.32176,-10.96693 h 0.12922 q 0.0646,0 0.12924,-0.0646 0.0646,0 0.12922,0.0646 0.0646,0 0.12922,0 h 0.12924 q 0.12921,0 0.12921,0.12923 v 1.29019 l -0.70957,5.99954 h 5.61246 v 7.09623 h -5.61246 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="path840"
+         inkscape:connector-curvature="0" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

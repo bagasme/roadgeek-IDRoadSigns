@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="355.71429"
-     inkscape:cy="548.57143"
+     inkscape:zoom="1.6191866"
+     inkscape:cx="342.04724"
+     inkscape:cy="564.09449"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,17 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="106.94325,168"
+       orientation="0,1"
+       id="guide836"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -62,5 +72,24 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect834"
+       width="120"
+       height="20"
+       x="30.5"
+       y="106.5"
+       rx="2"
+       ry="2" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect844"
+       width="120"
+       height="60"
+       x="30.5"
+       y="129"
+       rx="2.0000012"
+       ry="2.0000012" />
+  </g>
 </svg>

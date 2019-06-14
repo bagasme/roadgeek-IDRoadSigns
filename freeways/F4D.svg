@@ -25,7 +25,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="0"
-         inkscape:original="M 24 225 C 21.784001 225 20 226.784 20 229 L 20 263 C 20 265.216 21.784001 267 24 267 L 216 267 C 218.216 267 220 265.216 220 263 L 220 229 C 220 226.784 218.216 225 216 225 L 24 225 z "
+         inkscape:original="M 212.31445 225 L 20 262.38086 L 20 263 C 20 265.216 21.784002 267 24 267 L 27.689453 267 L 220 229.61914 L 220 229 C 220 226.784 218.216 225 216 225 L 212.31445 225 z "
          xlink:href="#rect2661"
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path820"
@@ -38,7 +38,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="0"
-         inkscape:original="M 24 225 C 21.784001 225 20 226.784 20 229 L 20 263 C 20 265.216 21.784001 267 24 267 L 216 267 C 218.216 267 220 265.216 220 263 L 220 229 C 220 226.784 218.216 225 216 225 L 24 225 z "
+         inkscape:original="M 212.31445 225 L 20 262.38086 L 20 263 C 20 265.216 21.784002 267 24 267 L 27.689453 267 L 220 229.61914 L 220 229 C 220 226.784 218.216 225 216 225 L 212.31445 225 z "
          xlink:href="#rect2661"
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path821"
@@ -51,7 +51,7 @@
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="0"
-         inkscape:original="M 24 225 C 21.784001 225 20 226.784 20 229 L 20 263 C 20 265.216 21.784001 267 24 267 L 216 267 C 218.216 267 220 265.216 220 263 L 220 229 C 220 226.784 218.216 225 216 225 L 24 225 z "
+         inkscape:original="M 212.31445 225 L 20 262.38086 L 20 263 C 20 265.216 21.784002 267 24 267 L 27.689453 267 L 220 229.61914 L 220 229 C 220 226.784 218.216 225 216 225 L 212.31445 225 z "
          xlink:href="#rect2661"
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path829"
@@ -67,8 +67,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0635991"
-     inkscape:cx="453.54331"
-     inkscape:cy="192.75591"
+     inkscape:cx="438.97015"
+     inkscape:cy="188.99509"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -121,7 +121,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -142,8 +142,8 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2661"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect26"
        width="200"
        height="42"
        x="20"
@@ -151,15 +151,11 @@
        rx="3.9999974"
        ry="3.9999974" />
     <path
-       sodipodi:type="inkscape:offset"
-       inkscape:radius="-2.75"
-       inkscape:original="M 24 225 C 21.784001 225 20 226.784 20 229 L 20 263 C 20 265.216 21.784001 267 24 267 L 216 267 C 218.216 267 220 265.216 220 263 L 220 229 C 220 226.784 218.216 225 216 225 L 24 225 z "
-       xlink:href="#rect2661"
-       style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path823"
-       inkscape:href="#rect2661"
-       d="m 24,227.75 c -0.740066,0 -1.25,0.50993 -1.25,1.25 v 34 c 0,0.74007 0.509934,1.25 1.25,1.25 h 192 c 0.74007,0 1.25,-0.50993 1.25,-1.25 v -34 c 0,-0.74007 -0.50993,-1.25 -1.25,-1.25 z"
-       clip-path="url(#clipPath827)" />
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 802.44727,521.57422 75.589844,662.85938 v 2.33789 c 0,8.37542 6.743713,15.11718 15.11914,15.11718 H 104.65039 L 831.49609,539.0293 v -2.33594 c 0,-8.37543 -6.74176,-15.11914 -15.11718,-15.11914 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"
+       id="rect2661"
+       inkscape:connector-curvature="0" />
     <path
        id="path1380"
        style="display:none;fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
@@ -181,13 +177,5 @@
          y="258.86932"
          style="font-size:13.40555573px;fill:#ffffff;stroke-width:0.26458332"
          id="tspan26">CIKAMPEK-PALIMANAN</tspan></text>
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect54"
-       width="220"
-       height="6"
-       x="-39.143749"
-       y="261.37738"
-       transform="rotate(-11)" />
   </g>
 </svg>

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="200mm"
+   height="42mm"
+   viewBox="0 0 200 42"
    version="1.1"
    id="svg848"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -30,7 +30,7 @@
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path820"
          inkscape:href="#rect2661"
-         d="m 24,225 c -2.215999,0 -4,1.784 -4,4 v 34 c 0,2.216 1.784001,4 4,4 h 192 c 2.216,0 4,-1.784 4,-4 v -34 c 0,-2.216 -1.784,-4 -4,-4 z" />
+         d="M 212.31445,225 20,262.38086 V 263 c 0,2.216 1.784002,4 4,4 h 3.689453 L 220,229.61914 V 229 c 0,-2.216 -1.784,-4 -4,-4 z" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -43,7 +43,7 @@
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path821"
          inkscape:href="#rect2661"
-         d="m 24,225 c -2.215999,0 -4,1.784 -4,4 v 34 c 0,2.216 1.784001,4 4,4 h 192 c 2.216,0 4,-1.784 4,-4 v -34 c 0,-2.216 -1.784,-4 -4,-4 z" />
+         d="M 212.31445,225 20,262.38086 V 263 c 0,2.216 1.784002,4 4,4 h 3.689453 L 220,229.61914 V 229 c 0,-2.216 -1.784,-4 -4,-4 z" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -56,7 +56,7 @@
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="path829"
          inkscape:href="#rect2661"
-         d="m 24,225 c -2.215999,0 -4,1.784 -4,4 v 34 c 0,2.216 1.784001,4 4,4 h 192 c 2.216,0 4,-1.784 4,-4 v -34 c 0,-2.216 -1.784,-4 -4,-4 z" />
+         d="M 212.31445,225 20,262.38086 V 263 c 0,2.216 1.784002,4 4,4 h 3.689453 L 220,229.61914 V 229 c 0,-2.216 -1.784,-4 -4,-4 z" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -80,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5041548"
-     inkscape:cx="453.54296"
-     inkscape:cy="192.75646"
+     inkscape:cx="377.95312"
+     inkscape:cy="79.370155"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -99,27 +99,27 @@
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="28,64.130005"
+       position="7.9999999,34.130005"
        orientation="99.250431,0"
        id="guide17"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="28,37.869995"
+       position="7.9999999,7.8699949"
        orientation="0,695.43307"
        id="guide19"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="212,37.869995"
+       position="192,7.8699949"
        orientation="-99.250431,0"
        id="guide21"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="212,64.130005"
+       position="192,34.130005"
        orientation="0,-695.43307"
        id="guide23"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="57.838,54.353563"
+       position="37.838,24.353563"
        orientation="1,0"
        id="guide20"
        inkscape:locked="false"
@@ -134,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -153,7 +153,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)">
+     transform="translate(-20,-225)">
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect26"

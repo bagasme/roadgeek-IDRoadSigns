@@ -58,6 +58,19 @@
          inkscape:href="#rect2661"
          d="m 24,225 c -2.215999,0 -4,1.784 -4,4 v 34 c 0,2.216 1.784001,4 4,4 h 192 c 2.216,0 4,-1.784 4,-4 v -34 c 0,-2.216 -1.784,-4 -4,-4 z" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 24 225 C 21.784001 225 20 226.784 20 229 L 20 263 C 20 265.216 21.784001 267 24 267 L 216 267 C 218.216 267 220 265.216 220 263 L 220 229 C 220 226.784 218.216 225 216 225 L 24 225 z "
+         xlink:href="#rect26"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path30"
+         inkscape:href="#rect26"
+         d="m 24,225 c -2.215999,0 -4,1.784 -4,4 v 34 c 0,2.216 1.784001,4 4,4 h 192 c 2.216,0 4,-1.784 4,-4 v -34 c 0,-2.216 -1.784,-4 -4,-4 z" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -67,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0635991"
-     inkscape:cx="438.97015"
-     inkscape:cy="188.99509"
+     inkscape:cx="424.39699"
+     inkscape:cy="185.23427"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -150,6 +163,16 @@
        y="225"
        rx="3.9999974"
        ry="3.9999974" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-2.75"
+       inkscape:original="M 24 225 C 21.784001 225 20 226.784 20 229 L 20 263 C 20 265.216 21.784001 267 24 267 L 216 267 C 218.216 267 220 265.216 220 263 L 220 229 C 220 226.784 218.216 225 216 225 L 24 225 z "
+       xlink:href="#rect26"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path24"
+       inkscape:href="#rect26"
+       d="m 24,227.75 c -0.740066,0 -1.25,0.50993 -1.25,1.25 v 34 c 0,0.74007 0.509934,1.25 1.25,1.25 h 192 c 0.74007,0 1.25,-0.50993 1.25,-1.25 v -34 c 0,-0.74007 -0.50993,-1.25 -1.25,-1.25 z"
+       clip-path="url(#clipPath28)" />
     <path
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 802.44727,521.57422 75.589844,662.85938 v 2.33789 c 0,8.37542 6.743713,15.11718 15.11914,15.11718 H 104.65039 L 831.49609,539.0293 v -2.33594 c 0,-8.37543 -6.74176,-15.11914 -15.11718,-15.11914 z"

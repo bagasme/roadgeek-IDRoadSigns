@@ -79,9 +79,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0635991"
-     inkscape:cx="424.39699"
-     inkscape:cy="185.23427"
+     inkscape:zoom="1.5041548"
+     inkscape:cx="453.54296"
+     inkscape:cy="192.75646"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -174,19 +174,13 @@
        d="m 24,227.75 c -0.740066,0 -1.25,0.50993 -1.25,1.25 v 34 c 0,0.74007 0.509934,1.25 1.25,1.25 h 192 c 0.74007,0 1.25,-0.50993 1.25,-1.25 v -34 c 0,-0.74007 -0.50993,-1.25 -1.25,-1.25 z"
        clip-path="url(#clipPath28)" />
     <path
-       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 802.44727,521.57422 75.589844,662.85938 v 2.33789 c 0,8.37542 6.743713,15.11718 15.11914,15.11718 H 104.65039 L 831.49609,539.0293 v -2.33594 c 0,-8.37543 -6.74176,-15.11914 -15.11718,-15.11914 z"
-       transform="matrix(0.26458333,0,0,0.26458333,0,87)"
-       id="rect2661"
-       inkscape:connector-curvature="0" />
-    <path
        id="path1380"
-       style="display:none;fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
+       style="display:inline;fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
        d="m 40.075452,232.87 h 3.713785 l 1.13008,8.15711 h -4.843865 z m 5.104234,10.00726 2.248454,16.25275 H 40.075452 V 242.87726 Z M 37.763015,232.87 H 34.04923 l -1.130282,8.15711 h 4.844067 z m -5.103426,10.00726 -2.24906,16.25275 h 7.352486 v -16.25275 z m 17.178475,-1.52124 H 28 v 1.19232 h 1.516596 v 1.39851 h 1.764654 v -1.39851 h 15.276976 v 1.39851 h 1.764048 v -1.39851 h 1.51579 z"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="135.0587"
        y="242.11238"
        id="text24"><tspan
@@ -200,5 +194,11 @@
          y="258.86932"
          style="font-size:13.40555573px;fill:#ffffff;stroke-width:0.26458332"
          id="tspan26">CIKAMPEK-PALIMANAN</tspan></text>
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 802.44727,521.57422 75.589844,662.85938 v 2.33789 c 0,8.37542 6.743713,15.11718 15.11914,15.11718 H 104.65039 L 831.49609,539.0293 v -2.33594 c 0,-8.37543 -6.74176,-15.11914 -15.11718,-15.11914 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"
+       id="rect2661"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -7,32 +7,17 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
-   id="svg8"
+   id="svg848"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="F4C.svg">
   <defs
-     id="defs2">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath825">
-      <path
-         sodipodi:type="inkscape:offset"
-         inkscape:radius="0"
-         inkscape:original="M 14 247 C 11.784001 247 10 248.784 10 251 L 10 283 C 10 285.216 11.784001 287 14 287 L 186 287 C 188.216 287 190 285.216 190 283 L 190 251 C 190 248.784 188.216 247 186 247 L 14 247 z "
-         xlink:href="#rect812"
-         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path827"
-         inkscape:href="#rect812"
-         d="m 14,247 c -2.215999,0 -4,1.784 -4,4 v 32 c 0,2.216 1.784001,4 4,4 h 172 c 2.216,0 4,-1.784 4,-4 v -32 c 0,-2.216 -1.784,-4 -4,-4 z" />
-    </clipPath>
-  </defs>
+     id="defs842" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -40,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6712847"
-     inkscape:cx="377.95273"
-     inkscape:cy="113.38583"
+     inkscape:zoom="0.35"
+     inkscape:cx="350"
+     inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,144 +35,16 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="false"
-     inkscape:bbox-paths="true"
-     inkscape:object-nodes="false"
-     inkscape:object-paths="false">
-    <sodipodi:guide
-       position="10,74.839288"
-       orientation="1,0"
-       id="guide816"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="190,83.154764"
-       orientation="1,0"
-       id="guide818"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="102.05357,10"
-       orientation="0,1"
-       id="guide820"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="37.041666,50"
-       orientation="0,1"
-       id="guide822"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="11,82.398812"
-       orientation="1,0"
-       id="guide824"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(60,163,122)" />
-    <sodipodi:guide
-       position="189,123.97619"
-       orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(60,163,122)" />
-    <sodipodi:guide
-       position="48,49"
-       orientation="0,1"
-       id="guide828"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(60,163,122)" />
-    <sodipodi:guide
-       position="121.70833,11"
-       orientation="0,1"
-       id="guide832"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(60,163,122)" />
-    <sodipodi:guide
-       position="18,37.203167"
-       orientation="1,0"
-       id="guide840"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(201,113,47)" />
-    <sodipodi:guide
-       position="12.348285,41.556728"
-       orientation="1,0"
-       id="guide26"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(93,11,139)" />
-    <sodipodi:guide
-       position="14.881267,47.651715"
-       orientation="0,1"
-       id="guide28"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(93,11,139)" />
-    <sodipodi:guide
-       position="187.59895,14.050132"
-       orientation="1,0"
-       id="guide30"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(93,11,139)" />
-    <sodipodi:guide
-       position="184.27441,12.387863"
-       orientation="0,1"
-       id="guide32"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(93,11,139)" />
-    <sodipodi:guide
-       position="48,27.387864"
-       orientation="1,0"
-       id="guide835"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(201,113,47)" />
-    <sodipodi:guide
-       position="182,27.546175"
-       orientation="1,0"
-       id="guide839"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(201,113,47)" />
-    <sodipodi:guide
-       position="136.14776,45"
-       orientation="0,1"
-       id="guide841"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(201,113,47)" />
-    <sodipodi:guide
-       position="109.39314,15"
-       orientation="0,1"
-       id="guide843"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(201,113,47)" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata5">
+     id="metadata845">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -205,70 +62,5 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect812"
-       width="180"
-       height="40"
-       x="9.9999924"
-       y="247"
-       rx="3.9999974"
-       ry="3.9999974" />
-    <path
-       sodipodi:type="inkscape:offset"
-       inkscape:radius="-1.6253299"
-       inkscape:original="M 14 247 C 11.784001 247 10 248.784 10 251 L 10 283 C 10 285.216 11.784001 287 14 287 L 186 287 C 188.216 287 190 285.216 190 283 L 190 251 C 190 248.784 188.216 247 186 247 L 14 247 z "
-       xlink:href="#rect812"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path821"
-       inkscape:href="#rect812"
-       d="m 14,248.625 c -1.34368,0 -2.375,1.03132 -2.375,2.375 v 32 c 0,1.34368 1.03132,2.375 2.375,2.375 h 172 c 1.34368,0 2.375,-1.03132 2.375,-2.375 v -32 c 0,-1.34368 -1.03132,-2.375 -2.375,-2.375 z"
-       clip-path="url(#clipPath825)" />
-    <g
-       transform="matrix(0.23106001,0,0,-0.23533714,14.038938,287.26006)"
-       id="g30">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1372"
-         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="M 125.34,108.68 H 17.143 v -5.8 h 7.514 V 96.077 H 33.4 v 6.803 h 75.69 v -6.803 h 8.74 v 6.803 h 7.51 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1374"
-         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="M 40.229,101.28 29.086,22.219 h 36.428 v 79.061 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1376"
-         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 65.514,149.96 h -18.4 l -5.6,-39.68 h 24 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1378"
-         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="M 102.26,101.28 113.4,22.219 H 76.971 v 79.061 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1380"
-         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 76.971,149.96 h 18.4 l 5.599,-39.68 H 76.971 Z" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="115.09515"
-       y="263.31699"
-       id="text847"><tspan
-         sodipodi:role="line"
-         id="tspan845"
-         x="115.09515"
-         y="263.31699"
-         style="font-size:12.69999981px;fill:#ffffff;stroke:none;stroke-width:0.26458332">Jalan Tol</tspan><tspan
-         sodipodi:role="line"
-         x="115.09515"
-         y="279.19199"
-         style="font-size:12.69999981px;fill:#ffffff;stroke:none;stroke-width:0.26458332"
-         id="tspan849">CIKAMPEK-PALIMANAN</tspan></text>
-  </g>
+     id="layer1" />
 </svg>

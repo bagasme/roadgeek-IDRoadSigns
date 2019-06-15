@@ -55,8 +55,10 @@ Inkscape:
 then adjust the offset distance (gap from edge of the parent object)
 If desired exact value of offset distance is required, fire up XML Editor
 `Shift-Ctrl-X`. Make sure that the offset path is selected. Change the
-value of `inkscape:radius` to negative of desired offset distance plus
-half of the stroke width.
+value of `inkscape:radius` to negative of (desired offset distance plus
+half of the stroke width). For example, to set offset distance to 2mm
+if the stroke width is 3mm, set `inkscape:radius` to -(2 + 1/2 * 3)
+= -3.5.
 - Select the original object again, then create another linked offset
 path.
 - Move the Z index of the original object below two linked offfsets

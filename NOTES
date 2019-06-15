@@ -14,7 +14,8 @@ To workaround:
 - Choose "Center on vertical axis" and "Center on horizontal axis"
 
 # Notes about end markers
-[from commit 59cab1e83a4077f8013df5adf8557180d735227d]
+[from commit 59cab1e83a4077f8013df5adf8557180d735227d and
+2816f9f5d3981927c634b50d2e2bda99729fb6d7]
 
 Some signs are "start of-end" of signs pair (such as F4A-F4B). The "end
 of" signs add straight line marker (often red) to their "start of"
@@ -35,8 +36,16 @@ The result should be the final marker.
 - Either recreate the exacly same markee, or restore the duplicate
 markee created earlier to the same place as the original one.
 
+The caveat of this method is when the markee has inner stroke created
+in following section. When `Path -> Intersection` is applied to the
+markee with inner stroke and the marker, the inner stroke will also be
+intersected. This means that when the markee have been resized, the
+marker have to be created again from scratch. However, this method is
+called 'naive method' because it just accomplished a particular task.
+ 
 # Notes about inner strokes
-[from commit c9bfe32c0d0308eaaa84000d464ed3aaa036cdcf]
+[from commit c9bfe32c0d0308eaaa84000d464ed3aaa036cdcf and
+974906948c8a389119f566e07d68dbcfb0fe4c0a]
 
 SVG specification doesn't allow inner strokes, so to create them in
 Inkscape:
@@ -44,6 +53,10 @@ Inkscape:
 - `Path -> Linked Offset`
 - Change the linked offset path to no fill with desired stroke width,
 then adjust the offset distance (gap from edge of the parent object)
+If desired exact value of offset distance is required, fire up XML Editor
+`Shift-Ctrl-X`. Make sure that the offset path is selected. Change the
+value of `inkscape:radius` to negative of desired offset distance plus
+half of the stroke width.
 - Select the original object again, then create another linked offset
 path.
 - Move the Z index of the original object below two linked offfsets

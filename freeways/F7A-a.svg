@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64381944"
-     inkscape:cx="561.25984"
-     inkscape:cy="396.85039"
+     inkscape:cx="537.18477"
+     inkscape:cy="390.63747"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,23 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="43.150685,165"
+       orientation="0,1"
+       id="guide820"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -73,5 +89,14 @@
        y="106.5"
        rx="3.7"
        ry="3.7" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect818"
+       width="120"
+       height="60"
+       x="20.5"
+       y="132.5"
+       rx="3.7000127"
+       ry="3.7000127" />
   </g>
 </svg>

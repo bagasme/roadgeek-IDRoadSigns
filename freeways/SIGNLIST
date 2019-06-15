@@ -19,3 +19,6 @@ F5B -> location marker [with meters]
 F6A -> vehicle restriction info in freeway (informasi pembatasan kendaraan
 pada awal masuk jalan tol)
 F6B -> toll gate ahead (gerbang tol di depan)
+
+# exit signs
+F7A-a -> exit ahead 1km (keluar di depan 1 km)

@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6000247"
-     inkscape:cx="219.56578"
-     inkscape:cy="634.70361"
+     inkscape:cx="269.56501"
+     inkscape:cy="659.70322"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,6 +84,13 @@
        inkscape:locked="false"
        inkscape:label="exitFrameW"
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="80.5,190"
+       orientation="1,0"
+       id="guide832"
+       inkscape:locked="false"
+       inkscape:label="exitFrameE"
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -138,5 +145,16 @@
          x="39.997902"
          y="119.98192"
          style="stroke-width:0.26458332">KELUAR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.249306"
+       y="120.7545"
+       id="text836"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="70.249306"
+         y="120.7545"
+         style="font-size:12.69999981px;stroke-width:0.26458332">6</tspan></text>
   </g>
 </svg>

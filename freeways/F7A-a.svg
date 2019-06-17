@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6000247"
-     inkscape:cx="305.81445"
-     inkscape:cy="499.70569"
+     inkscape:zoom="1.4307099"
+     inkscape:cx="342.04724"
+     inkscape:cy="459.43264"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -217,5 +217,38 @@
        id="path853"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 1';-inkscape-font-specification:'Roadgeek 2005 Arrows 1, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="m 30.948918,144.34492 q -0.05907,0.11836 -0.23666,0.47304 -0.177352,0.29581 -0.354903,0.65052 -0.177567,0.35471 -0.354849,0.70971 -0.177351,0.2958 -0.236707,0.41384 -0.08864,0.20709 -0.147762,0.26622 -0.05915,0.0591 -0.206987,0.20699 -0.354853,0.35486 -0.768942,0.29561 -0.414083,-0.0593 -0.739294,-0.38443 -0.147805,-0.1478 -0.207044,-0.20704 -0.08856,-0.0886 -0.118388,-0.35495 l -2.06995,-11.17783 q -0.02966,-0.0888 0.05905,-0.1775 l 0.05915,-0.0591 11.355282,2.12911 q 0.177334,0.059 0.266193,0.1479 0.05923,0.0593 0.207044,0.20704 0.325261,0.32527 0.384409,0.73926 0.02961,0.38447 -0.354805,0.7689 l -0.147864,0.14787 -2.661394,1.4194 5.825504,5.82551 -3.666808,3.6668 -5.79591,-5.7959 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="97.973801"
+       y="146.54854"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         x="97.973801"
+         y="146.54854"
+         style="font-size:16.93333244px;fill:#ffffff;stroke-width:0.26458332">Pondok Aren</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="77.708443"
+       y="161.54854"
+       id="text38"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         x="77.708443"
+         y="161.54854"
+         style="font-size:16.93333244px;fill:#ffffff;stroke-width:0.26458332">Ciputat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="77.782791"
+       y="176.54854"
+       id="text42"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="77.782791"
+         y="176.54854"
+         style="font-size:16.93333244px;fill:#ffffff;stroke-width:0.26458332">Bintaro</tspan></text>
   </g>
 </svg>

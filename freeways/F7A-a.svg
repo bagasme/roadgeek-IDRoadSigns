@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6000247"
-     inkscape:cx="315.5018"
-     inkscape:cy="502.20565"
+     inkscape:cx="305.81445"
+     inkscape:cy="499.70569"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -126,6 +126,27 @@
        inkscape:locked="false"
        inkscape:label="textAreaZoneW"
        inkscape:color="rgb(255,191,194)" />
+    <sodipodi:guide
+       position="52.5,117"
+       orientation="0,1"
+       id="guide26"
+       inkscape:locked="false"
+       inkscape:label="upperBoundDistance"
+       inkscape:color="rgb(222,185,255)" />
+    <sodipodi:guide
+       position="52.5,132"
+       orientation="0,1"
+       id="guide28"
+       inkscape:locked="false"
+       inkscape:label="upperBoundText3"
+       inkscape:color="rgb(222,185,255)" />
+    <sodipodi:guide
+       position="52.5,147"
+       orientation="0,1"
+       id="guide30"
+       inkscape:locked="false"
+       inkscape:label="upperBoundText2"
+       inkscape:color="rgb(221,184,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">

@@ -67,3 +67,22 @@ created above.
 See https://superuser.com/questions/128814/how-to-create-an-inner-border-stroke-in-inkscape
 for more information.
 
+# Notes about creating frames with line separators
+[from commit 0cad89caf02dd98443eb15802d0dc826a41be1ea with modifications]
+
+To create frame with separators by dynamic offsetting:
+- Draw frame with specified size and stroke.
+- Draw one or more horizontal or vertical line separator. Make sure that
+each separator run from one side of frame to the opposite side and the
+stroke width and color is the same as the frame. You may need to enable
+`Snap to Paths` and `Snap to Path Intersections`. If the frame have stroke,
+the start and end point of line is snapped to the stroke.
+- Select both frame and its separators, then `Path -> Dynamic Offset`.
+
+To manipulate the frame (such as resizing or moving), the frame as well
+as its separators need to be selected first.
+    
+The advantages over combining methods is that when resizing the frame,
+the stroke is preserved (as long as scaling stroke and corner radius are
+disabled).
+

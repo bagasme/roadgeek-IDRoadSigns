@@ -41,7 +41,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:object-nodes="false"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
@@ -185,10 +185,19 @@
        y="130"
        rx="1"
        ry="1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect842"
+       width="60"
+       height="20"
+       x="20.5"
+       y="106.5"
+       rx="1.0000006"
+       ry="1.0000006" />
     <path
-       id="path821"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 59.999998,126.5 v -20 M 21.5,106.5 h 58 c 0.554,0 1,0.446 1,1 v 18 c 0,0.554 -0.446,1 -1,1 h -58 c -0.554,0 -1,-0.446 -1,-1 v -18 c 0,-0.554 0.446,-1 1,-1 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.999998,126.5 v -20"
+       id="path842"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"

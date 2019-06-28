@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
-     inkscape:cx="99.628638"
-     inkscape:cy="109.83558"
+     inkscape:cx="113.38582"
+     inkscape:cy="113.38582"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -130,27 +130,31 @@
        style="fill:#040404;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22843572"
        id="path1170"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="77.758034"
-       y="99.28833"
-       id="text831"><tspan
-         sodipodi:role="line"
-         id="tspan829"
-         x="77.758034"
+    <g
+       id="g832"
+       transform="translate(-1.9550953)">
+      <text
+         id="text831"
          y="99.28833"
-         style="font-size:17.63888931px;text-align:center;text-anchor:middle;stroke-width:0.26458332">88</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="87.766617"
-       y="91.384666"
-       id="text839"><tspan
-         sodipodi:role="line"
-         id="tspan837"
-         x="87.766617"
+         x="77.758034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:17.63888931px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="99.28833"
+           x="77.758034"
+           id="tspan829"
+           sodipodi:role="line">8</tspan></text>
+      <text
+         id="text839"
          y="91.384666"
-         style="font-size:8.46666622px;stroke-width:0.26458332">T</tspan></text>
+         x="87.766617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666622px;stroke-width:0.26458332"
+           y="91.384666"
+           x="87.766617"
+           id="tspan837"
+           sodipodi:role="line">T</tspan></text>
+    </g>
   </g>
 </svg>

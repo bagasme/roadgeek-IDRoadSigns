@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3824156"
-     inkscape:cx="79.856204"
-     inkscape:cy="105.56512"
+     inkscape:cx="73.350202"
+     inkscape:cy="103.88615"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,32 +48,32 @@
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="false">
     <sodipodi:guide
-       position="23.315219,53.750001"
+       position="23.315219,53.75"
        orientation="0,1"
        id="guide8"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitBorderN"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="41.5,38.456521"
        orientation="1,0"
        id="guide12"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="textMarginE"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="14.905,46.659167"
+       position="10,46.659"
        orientation="0,1"
        id="guide18"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitBorderS"
        inkscape:color="rgb(92,198,99)" />
     <sodipodi:guide
        position="4.2,47.95"
        orientation="1,0"
        id="guide22"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="textMarginW"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="13.358171,-0.54999993"
@@ -87,14 +87,14 @@
        orientation="0,1"
        id="guide17"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralBorderN"
        inkscape:color="rgb(127,0,255)" />
     <sodipodi:guide
        position="9.645257,7.5"
        orientation="0,1"
        id="guide26"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralBorderS"
        inkscape:color="rgb(127,0,255)" />
   </sodipodi:namedview>
   <metadata

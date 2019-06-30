@@ -99,31 +99,39 @@
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="7.9999999,34.130005"
-       orientation="99.250431,0"
+       position="8,34.130005"
+       orientation="1,0"
        id="guide17"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaW"
+       inkscape:color="rgb(0,255,229)" />
     <sodipodi:guide
-       position="7.9999999,7.8699949"
-       orientation="0,695.43307"
+       position="30,7.87"
+       orientation="0,1"
        id="guide19"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaS"
+       inkscape:color="rgb(0,255,229)" />
     <sodipodi:guide
-       position="192,7.8699949"
-       orientation="-99.250431,0"
+       position="192,20"
+       orientation="1,0"
        id="guide21"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaE"
+       inkscape:color="rgb(0,255,229)" />
     <sodipodi:guide
-       position="192,34.130005"
-       orientation="0,-695.43307"
+       position="120,34.13"
+       orientation="0,1"
        id="guide23"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaN"
+       inkscape:color="rgb(0,255,229)" />
     <sodipodi:guide
-       position="37.838,24.353563"
+       position="37.838,27"
        orientation="1,0"
        id="guide20"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="textAreaSeparator"
        inkscape:color="rgb(0,255,229)" />
   </sodipodi:namedview>
   <metadata
@@ -134,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>

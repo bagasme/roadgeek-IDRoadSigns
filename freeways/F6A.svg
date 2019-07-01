@@ -44,52 +44,60 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
-       position="-1.1676204e-07,36.469669"
+       position="0,36.469669"
        orientation="1,0"
        id="guide836"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="pageBorderW"
+       inkscape:color="rgb(0,255,130)" />
     <sodipodi:guide
-       position="2.9999999,38.976519"
+       position="3,38.976519"
        orientation="1,0"
        id="guide838"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="paddingDrawAreaW"
        inkscape:color="rgb(167,188,89)" />
     <sodipodi:guide
-       position="56.132089,61.000009"
+       position="56.132089,61"
        orientation="0,1"
        id="guide840"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="pageBorderN"
+       inkscape:color="rgb(0,255,130)" />
     <sodipodi:guide
-       position="49.805282,57.999999"
+       position="49.805282,58"
        orientation="0,1"
        id="guide842"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="paddingDrawAreaN"
        inkscape:color="rgb(167,188,89)" />
     <sodipodi:guide
        position="121,30.023489"
        orientation="1,0"
        id="guide844"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="pageBorderE"
+       inkscape:color="rgb(0,255,130)" />
     <sodipodi:guide
        position="118,31.097849"
        orientation="1,0"
        id="guide846"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="paddingDrawAreaE"
        inkscape:color="rgb(167,188,89)" />
     <sodipodi:guide
-       position="67.353229,-3.0961623e-07"
+       position="67.353229,0"
        orientation="0,1"
        id="guide848"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="pageBorderS"
+       inkscape:color="rgb(0,255,130)" />
     <sodipodi:guide
-       position="66.159489,2.9999997"
+       position="66.159489,3"
        orientation="0,1"
        id="guide850"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="paddingDrawAreaS"
        inkscape:color="rgb(167,188,89)" />
   </sodipodi:namedview>
   <metadata

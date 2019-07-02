@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5273674"
-     inkscape:cx="154.84159"
-     inkscape:cy="166.29921"
+     inkscape:cx="144.69341"
+     inkscape:cy="163.68032"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,9 +38,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="704"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:object-paths="false"
@@ -54,74 +54,74 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="8.0000001,145.77381"
+       position="8.0000001,60.000001"
        orientation="1,0"
        id="guide882"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="drawingAreaW"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="111.47826,8.0000001"
+       position="60.000001,8.0000001"
        orientation="0,1"
        id="guide886"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="drawingAreaS"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="45.565218,80.000001"
        orientation="0,1"
        id="guide5450"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="drawingAreaN"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="80.000001,46.608696"
        orientation="1,0"
        id="guide5452"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="drawingAreaE"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="54.78261,60.000001"
+       position="60.000001,60.000001"
        orientation="0,1"
        id="guide5454"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitTextHSnap"
        inkscape:color="rgb(160,0,255)" />
     <sodipodi:guide
-       position="60.000001,66.000001"
+       position="60.000001,50.000001"
        orientation="1,0"
        id="guide5456"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitTextVSnap"
        inkscape:color="rgb(160,0,255)" />
     <sodipodi:guide
        position="41.913043,64.000001"
        orientation="0,1"
        id="guide17"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextN"
        inkscape:color="rgb(84,219,94)" />
     <sodipodi:guide
-       position="14.031497,74.66142"
+       position="14.031,74.66142"
        orientation="1,0"
        id="guide19"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextW"
        inkscape:color="rgb(84,219,94)" />
     <sodipodi:guide
        position="52.869565,24"
        orientation="0,1"
        id="guide21"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextS"
        inkscape:color="rgb(84,219,94)" />
     <sodipodi:guide
        position="58.000001,46.086956"
        orientation="1,0"
        id="guide23"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextE"
        inkscape:color="rgb(84,219,94)" />
   </sodipodi:namedview>
   <metadata
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>

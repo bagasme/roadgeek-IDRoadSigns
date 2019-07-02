@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6043214"
-     inkscape:cx="149.59596"
-     inkscape:cy="156.7641"
+     inkscape:cx="159.25737"
+     inkscape:cy="159.25737"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,18 +46,18 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
-       position="43.373737,9.9999997"
+       position="69.999998,9.9999997"
        orientation="0,1"
        id="guide837"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="upwardArrowBaseline"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="71.409993,74.273998"
+       position="69.999998,74.273998"
        orientation="0,1"
        id="guide839"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="downwardArrowBaseline"
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata

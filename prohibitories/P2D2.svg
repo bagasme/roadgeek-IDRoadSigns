@@ -51,42 +51,50 @@
        position="30.775348,54"
        orientation="0,1"
        id="guide3714"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaN"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="6,35.069583"
        orientation="1,0"
        id="guide3716"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaW"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="54,31.252485"
        orientation="1,0"
        id="guide3718"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaE"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="30.775348,5.9999997"
+       position="30.775348,6"
        orientation="0,1"
        id="guide3720"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaS"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="30,31.968191"
        orientation="1,0"
        id="guide3722"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="midPageVertical"
        inkscape:color="rgb(169,75,181)" />
     <sodipodi:guide
        position="35.54672,44"
        orientation="0,1"
        id="guide3724"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="segmentTipUpper"
        inkscape:color="rgb(172,204,77)" />
     <sodipodi:guide
        position="40.198807,16"
        orientation="0,1"
        id="guide3726"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="segmentTipLower"
        inkscape:color="rgb(172,204,77)" />
   </sodipodi:namedview>
   <metadata

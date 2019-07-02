@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
-     inkscape:cx="106.50724"
-     inkscape:cy="111.61071"
+     inkscape:cx="113.38582"
+     inkscape:cy="113.38582"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,49 +49,57 @@
        position="6,27.710372"
        orientation="1,0"
        id="guide1419"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaW"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="31.585127,54"
        orientation="0,1"
        id="guide1421"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaN"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="54,32.172212"
        orientation="1,0"
        id="guide1423"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaE"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="32.641879,5.9999997"
+       position="32.641879,6"
        orientation="0,1"
        id="guide1425"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="drawingAreaS"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="16,37.808219"
        orientation="1,0"
        id="guide821"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="segmentTipLeft"
        inkscape:color="rgb(172,204,77)" />
     <sodipodi:guide
        position="44,28.532289"
        orientation="1,0"
        id="guide823"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="segmentTipRight"
        inkscape:color="rgb(172,204,77)" />
     <sodipodi:guide
        position="32.994129,30"
        orientation="0,1"
        id="guide822"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="midpageHorizontal"
        inkscape:color="rgb(169,75,181)" />
     <sodipodi:guide
        position="34.637964,10"
        orientation="0,1"
        id="guide827"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitTextBaseline"
        inkscape:color="rgb(119,75,25)" />
   </sodipodi:namedview>
   <metadata

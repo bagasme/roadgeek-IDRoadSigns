@@ -53,28 +53,32 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="49.642558,43.7427"
+       position="49.642558,43.743"
        orientation="0,1"
        id="guide879"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="trapezoidTextFrameS"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="10.399197,43.7427"
+       position="10.399,43.7427"
        orientation="1,0"
        id="guide885"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="trapezoidTextFrameW"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="50.178155,43.742699"
+       position="50.177999,43.742699"
        orientation="1,0"
        id="guide887"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label="trapezoidtextFrameE"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="-17.24621,51.964199"
+       position="30,51.963999"
        orientation="0,1"
        id="guide818"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="trapezoidTextFrameN"
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata

@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -17,7 +18,21 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="D1A-b.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath820">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 34 147 C 31.784 147 30 148.784 30 151 L 30 243 C 30 245.216 31.784 247 34 247 L 146 247 C 148.216 247 150 245.216 150 243 L 150 151 C 150 148.784 148.216 147 146 147 L 34 147 z "
+         xlink:href="#rect812"
+         style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path822"
+         inkscape:href="#rect812"
+         d="m 34,147 c -2.216,0 -4,1.784 -4,4 v 92 c 0,2.216 1.784,4 4,4 h 112 c 2.216,0 4,-1.784 4,-4 v -92 c 0,-2.216 -1.784,-4 -4,-4 z" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45522587"
-     inkscape:cx="396.85039"
-     inkscape:cy="561.25984"
+     inkscape:zoom="1.3520208"
+     inkscape:cx="340.15748"
+     inkscape:cy="377.95276"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,5 +87,15 @@
        y="147"
        rx="4"
        ry="4" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-0.82499999"
+       inkscape:original="M 34 147 C 31.784 147 30 148.784 30 151 L 30 243 C 30 245.216 31.784 247 34 247 L 146 247 C 148.216 247 150 245.216 150 243 L 150 151 C 150 148.784 148.216 147 146 147 L 34 147 z "
+       xlink:href="#rect812"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path816"
+       inkscape:href="#rect812"
+       d="m 34,147.82422 c -1.77322,0 -3.175781,1.40256 -3.175781,3.17578 v 92 c 0,1.77322 1.402561,3.17578 3.175781,3.17578 h 112 c 1.77322,0 3.17578,-1.40256 3.17578,-3.17578 v -92 c 0,-1.77322 -1.40256,-3.17578 -3.17578,-3.17578 z"
+       clip-path="url(#clipPath820)" />
   </g>
 </svg>

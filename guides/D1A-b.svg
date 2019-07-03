@@ -133,5 +133,22 @@
        style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13190943"
        id="path394"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.182499"
+       y="211.6994"
+       id="text828"><tspan
+         sodipodi:role="line"
+         id="tspan826"
+         x="33.182499"
+         y="211.6994"
+         style="font-size:7.9375px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         dy="3">Simpang</tspan><tspan
+         sodipodi:role="line"
+         x="33.182499"
+         y="224.92857"
+         style="font-size:7.9375px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan830">Dewa Ruci</tspan></text>
   </g>
 </svg>

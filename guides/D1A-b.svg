@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3520208"
-     inkscape:cx="328.69317"
-     inkscape:cy="374.99424"
+     inkscape:cx="340.15749"
+     inkscape:cy="377.95277"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -164,5 +164,56 @@
          x="119.6825"
          y="219.40475"
          style="font-size:7.9375px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Jimbaran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="97.309441"
+       y="167.37282"
+       id="text829"><tspan
+         sodipodi:role="line"
+         x="97.309441"
+         y="167.37282"
+         style="font-size:7.9375px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan839">Denpasar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.95332"
+       y="185.80368"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="105.95332"
+         y="185.80368"
+         style="font-size:7.9375px;fill:#ffffff;stroke-width:0.26458332">Sanur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.61076"
+       y="177.35895"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="110.61076"
+         y="177.35895"
+         style="font-size:7.9375px;fill:#ffffff;stroke-width:0.26458332">Nusa Dua</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect836"
+       width="45.019001"
+       height="6.1160002"
+       x="96.749908"
+       y="188.75601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="119.07555"
+       y="194.65167"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="119.07555"
+         y="194.65167"
+         style="font-size:7.9375px;stroke-width:0.26458332">Lewat Jalan Tol</tspan></text>
   </g>
 </svg>

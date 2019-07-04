@@ -86,3 +86,19 @@ The advantages over combining methods is that when resizing the frame,
 the stroke is preserved (as long as scaling stroke and corner radius are
 disabled).
 
+# Notes about creating backgrounded texts which is edge-aligned
+[from commit 9e9cdd1a09b2fd2a76b865e01000f1b66fdbd113]
+
+To create text with background, while align the text edge the same as
+other texts:
+- Create the text object. Make sure that it edges are aligned the same
+as several other text objects, that is make sure that x-coordinate of
+the text and other texts are same.
+- Draw background rectangle which the dimension are bigger than bounding
+box size of the corresponding text. Set the rectangle color different
+than the text.
+- Select the text and the rectangle (not vice versa), then use `Align
+and Distribute` to center-align the rectangle relative to the text.
+- Lower the rectangle lower than text but above the frame. The text will
+appear.
+

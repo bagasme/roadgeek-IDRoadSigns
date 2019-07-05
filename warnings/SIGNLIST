@@ -11,3 +11,7 @@ W8D -> free width warning (lebar ruang bebas)
 # additional critical point distance info
 W10A -> critical point 450 m from the sign (lokasi kritis berjarak 450 m dari
 lokasi rambu)
+W10B -> critical point 300 m from the sign (lokasi kritis berjarak 300 m dari
+lokasi rambu)
+W10C -> critical point 150 m from the sign (lokasi kritis berjarak 150 m dari
+lokasi rambu)

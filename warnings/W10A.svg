@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3520208"
-     inkscape:cx="125.07204"
-     inkscape:cy="566.92913"
+     inkscape:cx="5.9910318"
+     inkscape:cy="563.9706"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,39 +71,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect834"
-       width="20"
-       height="100"
+       y="97"
        x="50"
-       y="97" />
-    <g
-       id="g834"
-       transform="translate(-50.358684,-20.613088)">
-      <rect
-         transform="rotate(45)"
-         y="16.514641"
-         x="151.55573"
-         height="12"
-         width="90"
-         id="rect816"
-         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         transform="rotate(45)"
-         y="34.455315"
-         x="151.55573"
-         height="12"
-         width="90"
-         id="rect816-3"
-         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         transform="rotate(45)"
-         y="52.455315"
-         x="151.55573"
-         height="12"
-         width="90"
-         id="rect816-6"
-         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
+       height="100"
+       width="20"
+       id="rect817"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:4.72440958;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 188.97656,389.67383 v 64.14062 l 75.58985,75.58789 v -64.13867 z m 0,95.89258 v 64.14062 l 75.58985,75.58985 v -64.14063 z m 0,96.21093 v 64.14063 l 75.58985,75.58984 v -64.14062 z"
+       transform="scale(0.26458333)"
+       id="rect834"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

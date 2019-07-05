@@ -13,3 +13,10 @@ D10B -> National route number (nomor rute nasional)
 D10C -> Provincial route number (nomor rute provinsi)
 D10D -> County route number (nomor rute kabupaten)
 D10E -> Municipal route number (nomor rute kota)
+
+# social facilities
+# worship places
+D6A1 -> mosque (masjid)
+D6A2 -> church (gereja)
+D6A3 -> vihara (wihara)
+D6A4 -> temple (pura)

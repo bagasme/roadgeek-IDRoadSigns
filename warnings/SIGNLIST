@@ -7,3 +7,7 @@ W1B -> turn right (tikungan ke kanan)
 
 W8C -> free height warning (tinggi ruang bebas)
 W8D -> free width warning (lebar ruang bebas)
+
+# additional critical point distance info
+W10A -> critical point 450 m from the sign (lokasi kritis berjarak 450 m dari
+lokasi rambu)

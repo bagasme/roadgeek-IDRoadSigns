@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="50mm"
+   height="60mm"
+   viewBox="0 0 50 60"
    version="1.1"
    id="svg2161"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
-     inkscape:cx="245.66929"
-     inkscape:cy="717.44457"
+     inkscape:cx="94.488189"
+     inkscape:cy="113.38583"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,28 +41,28 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
-       position="80.207437,215"
+       position="40.207437,54.999999"
        orientation="0,1"
        id="guide2727"
        inkscape:locked="false"
        inkscape:label="whiteBoxN"
        inkscape:color="rgb(91,221,88)" />
     <sodipodi:guide
-       position="45,205"
+       position="4.9999999,44.999999"
        orientation="1,0"
        id="guide2729"
        inkscape:locked="false"
        inkscape:label="whiteBoxW"
        inkscape:color="rgb(91,221,88)" />
     <sodipodi:guide
-       position="53.072406,172"
+       position="13.072406,12"
        orientation="0,1"
        id="guide2731"
        inkscape:locked="false"
        inkscape:label="whiteBoxS"
        inkscape:color="rgb(91,221,88)" />
     <sodipodi:guide
-       position="85,189.51077"
+       position="45,29.510769"
        orientation="1,0"
        id="guide2733"
        inkscape:locked="false"
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -95,7 +95,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-40,-77)">
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2725"

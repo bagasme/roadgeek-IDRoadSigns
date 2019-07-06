@@ -97,26 +97,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-40,-77)">
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2725"
-       width="50"
-       height="60"
-       x="40"
-       y="77"
-       rx="3.7"
-       ry="3.7" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2737"
-       width="40"
-       height="43"
-       x="45"
-       y="82" />
-    <path
-       d="M 83,121.99629 H 77.788912 72.676348 70.828992 66.958391 63.043532 57.314415 52.212243 51.71769 47 v -13.87463 h 5.212243 v -7.80659 h 5.102172 V 85.003714 h 5.729117 v 15.311356 7.80659 11.44231 h 3.914859 v -11.44231 -7.80659 -15.311356 h 5.717957 v 15.311356 h 5.112564 v 7.80659 H 83 Z"
-       style="fill:#040404;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22986472"
-       id="path666"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g3097">
+      <rect
+         ry="3.7"
+         rx="3.7"
+         y="77"
+         x="40"
+         height="60"
+         width="50"
+         id="rect2725"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         y="82"
+         x="45"
+         height="43"
+         width="40"
+         id="rect2737"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path666"
+         style="fill:#040404;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22986472"
+         d="M 83,121.99629 H 77.788912 72.676348 70.828992 66.958391 63.043532 57.314415 52.212243 51.71769 47 v -13.87463 h 5.212243 v -7.80659 h 5.102172 V 85.003714 h 5.729117 v 15.311356 7.80659 11.44231 h 3.914859 v -11.44231 -7.80659 -15.311356 h 5.717957 v 15.311356 h 5.112564 v 7.80659 H 83 Z" />
+    </g>
   </g>
 </svg>

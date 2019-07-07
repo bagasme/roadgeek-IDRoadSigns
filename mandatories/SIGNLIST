@@ -9,3 +9,5 @@ M1D -> direction turn to the right (perintah belok ke arah kanan)
 # minimum speed limit
 M4 -> minimum speed limit (batas kecepatan minimal)
 
+# end of mandatories
+M7A -> end of minimum speed limit (akhir batas kecepatan minimum)

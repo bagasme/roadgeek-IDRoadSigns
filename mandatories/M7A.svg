@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="M4.svg">
+   sodipodi:docname="M7A.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0859605"
-     inkscape:cx="235.27559"
-     inkscape:cy="235.27559"
+     inkscape:cx="221.00251"
+     inkscape:cy="231.59221"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -117,19 +117,19 @@
      id="layer1"
      transform="translate(-42.75,-86.25)">
     <g
-       id="g836">
-      <circle
-         r="60"
-         cy="148.5"
-         cx="105"
-         id="path817"
-         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+       id="g834">
       <circle
          r="62"
          cy="148.5"
          cx="105"
          id="path819"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <circle
+         r="60"
+         cy="148.5"
+         cx="105"
+         id="path828"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
       <text
          id="text1508"
          y="135.70207"
@@ -153,6 +153,12 @@
            x="99.898132"
            id="tspan1530"
            sodipodi:role="line">60</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path817"
+         transform="matrix(0.26458333,0,0,0.26458333,42.75,86.25)"
+         d="M 378.00391,59.275391 59.230469,378.04883 a 226.77165,226.77165 0 0 0 33.316406,33.22851 L 411.32227,92.501953 A 226.77165,226.77165 0 0 0 378.00391,59.275391 Z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
   </g>
 </svg>

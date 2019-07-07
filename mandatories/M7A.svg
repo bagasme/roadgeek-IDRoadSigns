@@ -137,8 +137,8 @@
        cy="148.5"
        r="62" />
     <circle
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path817"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path828"
        cx="105"
        cy="148.5"
        r="60" />
@@ -165,13 +165,11 @@
          x="99.898132"
          y="162.11217"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.43556976px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;stroke-width:0.26458332">60</tspan></text>
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect829"
-       width="122"
-       height="12.45"
-       x="-91.75914"
-       y="173.02657"
-       transform="rotate(-45)" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 378.00391,59.275391 59.230469,378.04883 a 226.77165,226.77165 0 0 0 33.316406,33.22851 L 411.32227,92.501953 A 226.77165,226.77165 0 0 0 378.00391,59.275391 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,42.75,86.25)"
+       id="path817"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

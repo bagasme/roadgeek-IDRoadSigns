@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0859605"
-     inkscape:cx="235.27559"
-     inkscape:cy="235.27559"
+     inkscape:cx="221.00251"
+     inkscape:cy="231.59221"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,56 +50,42 @@
        orientation="1,0"
        id="guide1502"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitTextVSnap"
        inkscape:color="rgb(0,255,234)" />
     <sodipodi:guide
        position="62.988143,90.000001"
        orientation="0,1"
        id="guide1504"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="unitTextHSnap"
        inkscape:color="rgb(0,255,36)" />
-    <sodipodi:guide
-       position="122.25,63.926199"
-       orientation="1,0"
-       id="guide1510"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="115.446,90.002015"
-       orientation="1,0"
-       id="guide1512"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(255,0,225)" />
     <sodipodi:guide
        position="10,90.002015"
        orientation="1,0"
        id="guide1514"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextW"
        inkscape:color="rgb(255,132,0)" />
     <sodipodi:guide
        position="59.051384,95.000001"
        orientation="0,1"
        inkscape:locked="false"
        id="guide1518"
-       inkscape:label=""
+       inkscape:label="numeralTextN"
        inkscape:color="rgb(255,132,0)" />
     <sodipodi:guide
        position="84.000001,71.599803"
        orientation="1,0"
        id="guide1526"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextE"
        inkscape:color="rgb(255,132,0)" />
     <sodipodi:guide
        position="56.098815,29.75"
        orientation="0,1"
        id="guide1528"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="numeralTextS"
        inkscape:color="rgb(255,132,0)" />
   </sodipodi:namedview>
   <metadata

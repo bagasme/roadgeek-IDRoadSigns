@@ -14,6 +14,13 @@ D10C -> Provincial route number (nomor rute provinsi)
 D10D -> County route number (nomor rute kabupaten)
 D10E -> Municipal route number (nomor rute kota)
 
+# public utilities
+# transport nodes
+D5A1 -> terminal (terminal)
+D5A2 -> train station (stasiun kereta api)
+D5A3 -> sea port (pelabuhan)
+D5A4 -> airport (bandara)
+
 # social facilities
 # worship places
 D6A1 -> mosque (masjid)

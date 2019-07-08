@@ -58,7 +58,12 @@ If desired exact value of offset distance is required, fire up XML Editor
 value of `inkscape:radius` to negative of (desired offset distance plus
 half of the stroke width). For example, to set offset distance to 2mm
 if the stroke width is 3mm, set `inkscape:radius` to -(2 + 1/2 * 3)
-= -3.5.
+= -3.5. In case when stroke width of the frame and the offset is different,
+the offset distance formula become negative of (desired offset distance plus
+half of the stroke width of the frame plus half of the stroke width of
+the offset). For example, to set 2mm offset distance when the frame have
+3mm stroke width and the offset have 8mm stroke width, set `inkscape:radius`
+to -(2 + (1/2 * 3) + (1/2 * 8)) = -7.5.
 - Select the original object again, then create another linked offset
 path.
 - Move the Z index of the original object below two linked offfsets

@@ -22,3 +22,4 @@ F6B -> toll gate ahead (gerbang tol di depan)
 
 # exit signs
 F7A-a -> exit ahead 1 km (keluar di depan 1 km)
+F7A-b -> exit ahead 500 m (keluar di depan 500 m)

@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1808042"
-     inkscape:cx="342.04725"
-     inkscape:cy="505.51182"
+     inkscape:cx="1019.5516"
+     inkscape:cy="437.76138"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,11 +52,11 @@
        inkscape:label="exitTextSeparator"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="190,177.10273"
+       position="201,149.67906"
        orientation="1,0"
        id="guide818"
        inkscape:locked="false"
-       inkscape:label="exitTextW"
+       inkscape:label="secondFrameBegin"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="43.655577,190.5"
@@ -269,5 +269,14 @@
          x="90.394958"
          y="210.77426"
          style="font-size:16.93333244px;fill:#ffffff;stroke-width:0.26458332">1 km</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect862"
+       width="140"
+       height="90"
+       x="201.5"
+       y="130"
+       rx="1"
+       ry="1" />
   </g>
 </svg>

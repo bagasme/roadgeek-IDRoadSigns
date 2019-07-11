@@ -349,5 +349,47 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="path883"
        inkscape:connector-curvature="0" />
+    <g
+       id="g886"
+       transform="translate(1.2820147,-2.2191714)">
+      <rect
+         ry="1.0000006"
+         rx="1.0000006"
+         y="139.21918"
+         x="206.49998"
+         height="16"
+         width="12"
+         id="rect877"
+         style="fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(-3.0000153,-63.167138)"
+         id="g875">
+        <path
+           d="m 221,208.04711 h -11 v 0.60058 h 0.76392 v 0.70444 h 0.88887 v -0.70444 h 7.69513 v 0.70444 h 0.88857 v -0.70444 H 221 Z"
+           style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
+           id="path1372"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 212.34707,208.81337 211.2142,217 h 3.70351 v -8.18663 z"
+           style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
+           id="path1374"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 214.91771,203.77263 h -1.87067 l -0.56933,4.1088 h 2.44 z"
+           style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
+           id="path1376"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 218.65354,208.81337 219.7861,217 h -3.7036 v -8.18663 z"
+           style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
+           id="path1378"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 216.0825,203.77263 h 1.87066 l 0.56923,4.1088 h -2.43989 z"
+           style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.88998246"
+           id="path1380"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>

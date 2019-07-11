@@ -107,3 +107,12 @@ and Distribute` to center-align the rectangle relative to the text.
 - Lower the rectangle lower than text but above the frame. The text will
 appear.
 
+# Notes about transport nodes freeway exit signs
+
+In freeway exit signs (F7 series), some destination texts can be transport
+nodes. The most common is freeway names (such as Jagorawi and
+Jakarta-Cikampek), although other nodes (such as airport) is possible.
+Besides its text, such node also accompanied with identifier icon which
+is placed to the left of the sign. Placing such icons is depending
+on destination text: if the text is not transport node, it is OK not to
+include identifier icons. If it is node, placing icons is highly recommended.

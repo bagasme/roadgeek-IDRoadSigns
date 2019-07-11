@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4857372"
-     inkscape:cx="1053.5045"
-     inkscape:cy="458.41009"
+     inkscape:cx="1043.072"
+     inkscape:cy="455.71782"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -161,6 +161,20 @@
        inkscape:locked="false"
        inkscape:label="signAreaLimitE"
        inkscape:color="rgb(0,255,255)" />
+    <sodipodi:guide
+       position="216,110.0548"
+       orientation="1,0"
+       id="guide879"
+       inkscape:locked="false"
+       inkscape:label="firstArrowLeftEdge"
+       inkscape:color="rgb(0,255,27)" />
+    <sodipodi:guide
+       position="346.5,113.61644"
+       orientation="1,0"
+       id="guide881"
+       inkscape:locked="false"
+       inkscape:label="secondArrowRightEdge"
+       inkscape:color="rgb(0,255,27)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -325,5 +339,15 @@
          x="225.23648"
          y="190.67265"
          style="font-size:16.93333244px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Soekarno-Hatta</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path860"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 223.41892,204.61203 v -5.61285 h 7.09674 v 5.67739 l 5.99997,-0.77418 h 1.29025 l 0.0647,0.0647 q 0,0.0647 0.0647,0.0647 0,0.0647 0,0.19382 0.0647,0.12936 0.0647,0.19316 0,0.0647 -0.0647,0.0647 0,0 0,0.0647 v 0.12936 L 226.96762,215 216,204.67753 v -0.25785 -0.3871 q 0.0647,0 0.0647,-0.0647 l 0.0647,-0.0647 h 1.29035 z" />
+    <path
+       d="m 331.91894,204.61203 v -5.61285 h 7.09674 v 5.67739 l 5.99997,-0.77418 h 1.29025 l 0.0647,0.0647 q 0,0.0647 0.0647,0.0647 0,0.0647 0,0.19382 0.0647,0.12936 0.0647,0.19316 0,0.0647 -0.0647,0.0647 0,0 0,0.0647 v 0.12936 L 335.46764,215 324.50002,204.67753 v -0.25785 -0.3871 q 0.0647,0 0.0647,-0.0647 l 0.0647,-0.0647 h 1.29035 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'Roadgeek 2005 Arrows 2';-inkscape-font-specification:'Roadgeek 2005 Arrows 2, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path883"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

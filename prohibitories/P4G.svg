@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="355.71429"
-     inkscape:cy="548.57143"
+     inkscape:zoom="2.2533681"
+     inkscape:cx="264.56693"
+     inkscape:cy="340.15748"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,5 +62,12 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path834"
+       cx="70"
+       cy="207"
+       r="27" />
+  </g>
 </svg>

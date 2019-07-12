@@ -4,6 +4,8 @@
 P1A -> STOP sign (wajib berhenti)
 P1B -> yield priority (wajib memberi prioritas dari arah yang diberi prioritas)
 
+# ban doing several moves here
+P4G -> vehicle distance minimum limit (batas jarak kendaraan minimum)
 # speed limit sign use Arial font
 P4H -> maximum speed limit (batas kecepatan maksimum)
 P4H-a -> maximum speed limit (batas kecepatan maksimum) [3-digit]

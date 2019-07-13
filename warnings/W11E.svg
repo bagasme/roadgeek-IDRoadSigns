@@ -35,7 +35,52 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="45,162.03523"
+       orientation="1,0"
+       id="guide855"
+       inkscape:locked="false"
+       inkscape:label="paddingW"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="95,165.26419"
+       orientation="1,0"
+       id="guide857"
+       inkscape:locked="false"
+       inkscape:label="paddingE"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="67.367905,190.3"
+       orientation="0,1"
+       id="guide859"
+       inkscape:locked="false"
+       inkscape:label="paddingN"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="68.542073,124.7"
+       orientation="0,1"
+       id="guide861"
+       inkscape:locked="false"
+       inkscape:label="paddingS"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="75.146769,157.5"
+       orientation="0,1"
+       id="guide863"
+       inkscape:locked="false"
+       inkscape:label="centerH"
+       inkscape:color="rgb(114,0,255)" />
+    <sodipodi:guide
+       position="70,152.78865"
+       orientation="1,0"
+       id="guide865"
+       inkscape:locked="false"
+       inkscape:label="centerV"
+       inkscape:color="rgb(114,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>

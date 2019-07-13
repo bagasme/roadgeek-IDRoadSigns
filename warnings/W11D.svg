@@ -111,19 +111,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect853"
-       width="57.5"
-       height="72.5"
-       x="41.25"
-       y="103.25"
-       rx="3.7"
-       ry="3.7" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 95,106.7 69.999969,139.50006 95,172.30012 H 69.999969 L 44.999945,139.50006 69.999969,106.7 Z"
-       id="rect867"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g843">
+      <rect
+         ry="3.7"
+         rx="3.7"
+         y="103.25"
+         x="41.25"
+         height="72.5"
+         width="57.5"
+         id="rect853"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect867"
+         d="M 95,106.7 69.999969,139.50006 95,172.30012 H 69.999969 L 44.999945,139.50006 69.999969,106.7 Z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

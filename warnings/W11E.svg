@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8026944"
-     inkscape:cx="264.56693"
-     inkscape:cy="595.27559"
+     inkscape:cx="264.56694"
+     inkscape:cy="595.27561"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,20 +111,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect853"
-       width="57.5"
-       height="72.5"
-       x="41.25"
-       y="103.25"
-       rx="3.7"
-       ry="3.7" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.44881916;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 170.07812,403.27539 94.48829,123.96875 -94.48829,123.96875 h 94.48829 L 359.05469,527.24414 264.56641,403.27539 Z"
-       transform="scale(0.26458333)"
-       id="rect867"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g822">
+      <rect
+         ry="3.7"
+         rx="3.7"
+         y="103.25"
+         x="41.25"
+         height="72.5"
+         width="57.5"
+         id="rect853"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect867"
+         transform="scale(0.26458333)"
+         d="m 170.07812,403.27539 94.48829,123.96875 -94.48829,123.96875 h 94.48829 L 359.05469,527.24414 264.56641,403.27539 Z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.44881916;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

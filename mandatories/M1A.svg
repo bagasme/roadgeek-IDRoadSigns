@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1125326"
-     inkscape:cx="272.12599"
-     inkscape:cy="687.87404"
+     inkscape:zoom="2.253368"
+     inkscape:cx="264.56693"
+     inkscape:cy="680.31496"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,17 +63,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path812"
-       cx="72"
-       cy="115"
-       r="31.949999" />
-    <circle
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.24999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path814"
-       cx="72"
-       cy="115"
-       r="30" />
+    <g
+       id="g816">
+      <circle
+         r="29.950001"
+         cy="117"
+         cx="70"
+         id="path812"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="27"
+         cy="117"
+         cx="70"
+         id="path814"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.24999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

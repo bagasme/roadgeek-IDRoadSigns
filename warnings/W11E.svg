@@ -37,7 +37,10 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="45,162.03523"
        orientation="1,0"
@@ -117,5 +120,13 @@
        y="103.25"
        rx="3.7"
        ry="3.7" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.80329609;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect867"
+       width="25"
+       height="41.241241"
+       x="176.32622"
+       y="175.40102"
+       transform="matrix(1,0,-0.60618933,0.79532038,0,0)" />
   </g>
 </svg>

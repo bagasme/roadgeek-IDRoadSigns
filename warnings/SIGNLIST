@@ -15,3 +15,7 @@ W10B -> critical point 300 m from the sign (lokasi kritis berjarak 300 m dari
 lokasi rambu)
 W10C -> critical point 150 m from the sign (lokasi kritis berjarak 150 m dari
 lokasi rambu)
+
+# move aligners
+W11D -> left chevron turn alignment (pengarah tikungan ke kiri)
+W11E -> right chevron turn alignment (pengarah tikungan ke kanan)

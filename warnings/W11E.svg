@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -128,5 +128,13 @@
        x="176.32622"
        y="175.40102"
        transform="matrix(1,0,-0.60618933,0.79532038,0,0)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.80329585;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect820"
+       width="25"
+       height="41.241245"
+       x="-36.32621"
+       y="134.15976"
+       transform="matrix(1,0,0.60618928,0.79532041,0,0)" />
   </g>
 </svg>

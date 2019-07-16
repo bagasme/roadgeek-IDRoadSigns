@@ -35,7 +35,43 @@
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true">
+    <sodipodi:guide
+       position="45,155.10764"
+       orientation="1,0"
+       id="guide833"
+       inkscape:locked="false"
+       inkscape:label="whiteBoxW"
+       inkscape:color="rgb(0,255,255)" />
+    <sodipodi:guide
+       position="70.215263,175"
+       orientation="0,1"
+       id="guide835"
+       inkscape:locked="false"
+       inkscape:label="whiteBoxN"
+       inkscape:color="rgb(0,255,255)" />
+    <sodipodi:guide
+       position="85,151.58513"
+       orientation="1,0"
+       id="guide837"
+       inkscape:locked="false"
+       inkscape:label="whiteBoxE"
+       inkscape:color="rgb(0,255,255)" />
+    <sodipodi:guide
+       position="61.878668,132"
+       orientation="0,1"
+       id="guide839"
+       inkscape:locked="false"
+       inkscape:label="whiteBoxS"
+       inkscape:color="rgb(0,255,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -72,5 +108,12 @@
        y="117"
        rx="3.7"
        ry="3.7" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect841"
+       width="40"
+       height="43"
+       x="45"
+       y="122" />
   </g>
 </svg>

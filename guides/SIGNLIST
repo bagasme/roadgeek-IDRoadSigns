@@ -23,6 +23,13 @@ D5A4 -> airport (bandara)
 # sanity places
 D5B1 -> trash bin (tempat penampungan sampah)
 D5B2 -> landfill (tempat pembuangan sampah)
+# disaster response facilities
+D5H1 -> tsunami evacuation route (jalur evakuasi tsunami)
+D5H2 -> earthquake evacuation route (jalur evakuasi gempa bumi)
+D5H3 -> volcano evacuation route (jalur evakuasi gunung meletus)
+D5H4 -> emergency meet point (tempat berkumpul darurat)
+D5H5 -> refugee camp (tempat kemah pengungsian)
+D5H6 -> refugee building (bangunan pengungsian)
 
 # social facilities
 # worship places

@@ -20,6 +20,9 @@ D5A1 -> terminal (terminal)
 D5A2 -> train station (stasiun kereta api)
 D5A3 -> sea port (pelabuhan)
 D5A4 -> airport (bandara)
+# sanity places
+D5B1 -> trash bin (tempat penampungan sampah)
+D5B2 -> landfill (tempat pembuangan sampah)
 
 # social facilities
 # worship places

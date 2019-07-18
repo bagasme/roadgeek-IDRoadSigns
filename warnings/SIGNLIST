@@ -2,8 +2,13 @@
 # most of them are based on MUTCD (USA) and Japanese signs
 # diamond-shaped with yellow background color and black-on-yellow outline color
 
+# horizontal alignment changes
 W1A -> turn left (tikungan ke kiri)
 W1B -> turn right (tikungan ke kanan)
+W1C -> double turn to left (tikungan ganda ke kiri)
+W1D -> double turn to right (tikungan ganda ke kanan)
+W1E -> sharp turn left (tikungan tajam ke kiri)
+W1F -> sharp turn right (tikungan tajam ke kanan)
 
 W8C -> free height warning (tinggi ruang bebas)
 W8D -> free width warning (lebar ruang bebas)

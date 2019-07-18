@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533628"
-     inkscape:cx="264.5672"
+     inkscape:cx="256.80103"
      inkscape:cy="718.11049"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -73,5 +73,10 @@
        rx="3.7000124"
        ry="3.7000124"
        transform="rotate(45)" />
+    <path
+       d="m 77.433948,102.56919 c 0.112458,4.19547 -0.941849,7.93683 -4.526852,10.42108 -1.174851,0.81495 -2.450214,1.38805 -3.745607,1.97137 -0.893352,0.41257 -1.857341,0.85507 -2.620661,1.46866 -2.028139,1.62919 -2.078395,4.70697 -1.948011,7.0807 l 0.01023,0.13089 v 0.0499 h -6.064733 v -0.0602 c -0.230894,-4.49576 0.512043,-8.9616 4.207044,-11.92885 1.194883,-0.96561 2.520502,-1.61931 3.906215,-2.25298 0.933766,-0.43228 1.968044,-0.86493 2.811491,-1.44824 1.807085,-1.24723 1.977883,-3.27809 1.917788,-5.34097 v -0.10906 h -0.07029 l -0.140576,0.0493 -2.339511,1.29546 c -1.074693,0.58438 -2.058715,-0.7322 -1.486224,-1.70734 l 6.997102,-11.880868 6.990068,11.880948 c 0.572842,0.97513 -0.411181,2.29171 -1.486576,1.70734 l -2.340566,-1.29546 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2302904"
+       id="path588"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

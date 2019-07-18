@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533628"
-     inkscape:cx="256.80103"
-     inkscape:cy="718.11049"
+     inkscape:cx="264.5672"
+     inkscape:cy="718.1105"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,20 +63,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4292"
-       width="42.836006"
-       height="42.836006"
-       x="103.7399"
-       y="4.7448497"
-       rx="3.7000124"
-       ry="3.7000124"
-       transform="rotate(45)" />
-    <path
-       d="M 84.000071,101.22128 72.297857,94.299444 c -0.962328,-0.563176 -2.269838,0.409287 -1.681459,1.466879 l 1.26992,2.321465 H 60.613946 c -3.166136,0 -4.613876,1.123078 -4.613876,4.387532 v 17.39036 h 6.024026 v -13.76147 c 0,-1.11326 0.252022,-1.75862 1.540901,-1.75862 h 8.321321 v 0 l -1.26992,2.32016 c -0.588379,1.05694 0.719131,2.03005 1.681459,1.46851 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2302904"
-       id="path616"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g2510">
+      <rect
+         transform="rotate(45)"
+         ry="3.7000124"
+         rx="3.7000124"
+         y="4.7448497"
+         x="103.7399"
+         height="42.836006"
+         width="42.836006"
+         id="rect4292"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path616"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2302904"
+         d="M 84.000071,101.22128 72.297857,94.299444 c -0.962328,-0.563176 -2.269838,0.409287 -1.681459,1.466879 l 1.26992,2.321465 H 60.613946 c -3.166136,0 -4.613876,1.123078 -4.613876,4.387532 v 17.39036 h 6.024026 v -13.76147 c 0,-1.11326 0.252022,-1.75862 1.540901,-1.75862 h 8.321321 v 0 l -1.26992,2.32016 c -0.588379,1.05694 0.719131,2.03005 1.681459,1.46851 z" />
+    </g>
   </g>
 </svg>

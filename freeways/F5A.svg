@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="355.71429"
-     inkscape:cy="548.57143"
+     inkscape:zoom="2.2533681"
+     inkscape:cx="245.66929"
+     inkscape:cy="718.11024"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,5 +62,15 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect891"
+       width="48"
+       height="58"
+       x="41"
+       y="78"
+       rx="3.7"
+       ry="3.7" />
+  </g>
 </svg>

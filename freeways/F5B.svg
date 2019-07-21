@@ -75,7 +75,7 @@
        orientation="0,1"
        id="guide823"
        inkscape:locked="false"
-       inkscape:label="meterNumeralHeight"
+       inkscape:label="meterNumeralPaddingHeight"
        inkscape:color="rgb(146,255,225)" />
     <sodipodi:guide
        position="60,215"
@@ -158,5 +158,16 @@
          x="64.998169"
          y="117.619"
          style="font-size:31.75px;stroke-width:0.26458332">99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.80692101px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.9991"
+       y="132.96352"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="64.9991"
+         y="132.96352"
+         style="font-size:14.8166666px;fill:#ffffff;stroke-width:0.26458332">999</tspan></text>
   </g>
 </svg>

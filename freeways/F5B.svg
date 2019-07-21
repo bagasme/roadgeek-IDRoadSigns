@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45.700001mm"
-   height="56.75mm"
-   viewBox="0 0 45.700001 56.75"
+   width="50mm"
+   height="60mm"
+   viewBox="0 0 50 60"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,105 +25,72 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3824156"
-     inkscape:cx="79.856204"
-     inkscape:cy="105.56512"
+     inkscape:zoom="2.2533681"
+     inkscape:cx="94.488187"
+     inkscape:cy="113.38582"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-bottom="-0.2"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
      inkscape:window-width="1366"
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-smooth-nodes="false">
+     inkscape:object-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="23.315219,53.75"
-       orientation="0,1"
-       id="guide8"
+       position="3.9999999,29.275929"
+       orientation="1,0"
+       id="guide815"
        inkscape:locked="false"
-       inkscape:label="unitBorderN"
+       inkscape:label="signPaddingW"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="41.5,38.456521"
-       orientation="1,0"
-       id="guide12"
+       position="34.090016,55.999999"
+       orientation="0,1"
+       id="guide817"
        inkscape:locked="false"
-       inkscape:label="textMarginE"
+       inkscape:label="signPaddingN"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="10,46.659"
-       orientation="0,1"
-       id="guide18"
-       inkscape:locked="false"
-       inkscape:label="unitBorderS"
-       inkscape:color="rgb(92,198,99)" />
-    <sodipodi:guide
-       position="4.2,47.95"
+       position="46,47.005869"
        orientation="1,0"
-       id="guide22"
+       id="guide819"
        inkscape:locked="false"
-       inkscape:label="textMarginW"
+       inkscape:label="signPaddingE"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="5,0.5"
+       position="16.242659,3.9999996"
        orientation="0,1"
-       id="guide24"
+       id="guide821"
        inkscape:locked="false"
-       inkscape:label="meterBorderS"
+       inkscape:label="signPaddingS"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="22.717392,43"
+       position="12.015653,14"
        orientation="0,1"
-       id="guide17"
+       id="guide823"
        inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(127,0,255)" />
+       inkscape:label="meterNumeralPaddingHeight"
+       inkscape:color="rgb(146,255,225)" />
     <sodipodi:guide
-       position="9.645257,12"
+       position="20,54.999999"
        orientation="0,1"
-       id="guide26"
+       id="guide825"
        inkscape:locked="false"
-       inkscape:label="meterBoxBorderN"
-       inkscape:color="rgb(127,0,255)" />
+       inkscape:label="unitTextHeight"
+       inkscape:color="rgb(224,0,255)" />
     <sodipodi:guide
-       position="0.7,31.899474"
-       orientation="1,0"
-       id="guide847"
-       inkscape:locked="false"
-       inkscape:label="strokeBorderW"
-       inkscape:color="rgb(133,109,37)" />
-    <sodipodi:guide
-       position="45,33.09421"
-       orientation="1,0"
-       id="guide849"
-       inkscape:locked="false"
-       inkscape:label="strokeBorderE"
-       inkscape:color="rgb(133,109,37)" />
-    <sodipodi:guide
-       position="0.7,1"
+       position="9.7847339,19"
        orientation="0,1"
-       id="guide870"
+       id="guide827"
        inkscape:locked="false"
-       inkscape:label="meterNumeralS"
-       inkscape:color="rgb(214,44,89)" />
-    <sodipodi:guide
-       position="33.930527,11.5"
-       orientation="0,1"
-       id="guide872"
-       inkscape:locked="false"
-       inkscape:label="meterNumeralN"
-       inkscape:color="rgb(214,44,89)" />
+       inkscape:label="kiloMeterNumeralBaseline"
+       inkscape:color="rgb(224,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -152,54 +119,59 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-23.084523,-37.358332)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.01102829px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39856669"
-       x="47.068844"
-       y="78.002029"
-       id="text30"><tspan
-         sodipodi:role="line"
-         id="tspan28"
-         x="47.068844"
-         y="78.002029"
-         style="stroke-width:0.39856669">44</tspan></text>
+     transform="translate(-40,-77)">
     <g
-       id="g880">
-      <rect
-         y="37.708332"
-         x="23.434523"
-         height="56.25"
-         width="45"
-         id="rect817"
-         style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none" />
+       id="g834">
       <path
          inkscape:connector-curvature="0"
-         id="path866"
-         d="m 23.784523,82.084821 v 0.04872 11.524664 h 44.3 V 82.084816 Z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         id="path820"
+         d="M 44.699219,77 C 42.112716,77 40,79.112716 40,81.699219 V 132.30078 C 40,134.88728 42.112716,137 44.699219,137 H 85.300781 C 87.887284,137 90,134.88728 90,132.30078 V 81.699219 C 90,79.112716 87.887284,77 85.300781,77 Z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.26458333)"
+         id="path825"
+         d="M 332.59766,457.32227 H 158.74023 v 42.71289 c 0,5.7188 4.48238,10.20117 10.20118,10.20117 h 153.45507 c 5.7188,0 10.20118,-4.48237 10.20118,-10.20117 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905485;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.26458333)"
+         id="rect891"
+         d="m 168.94141,298.58203 c -5.7188,0 -10.20118,4.48433 -10.20118,10.20313 V 457.32227 H 332.59766 V 308.78516 c 0,-5.7188 -4.48238,-10.20313 -10.20118,-10.20313 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905485;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.12968159px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.952492"
-       y="92.926781"
-       id="text876"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.997879"
+       y="89.563553"
+       id="text835"><tspan
          sodipodi:role="line"
-         id="tspan874"
-         x="45.952492"
-         y="92.926781"
-         style="fill:#ffffff;stroke-width:0.26458332">600</tspan></text>
+         id="tspan833"
+         x="64.997879"
+         y="89.563553"
+         style="font-size:11.28888893px;stroke-width:0.26458332">KM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.932621"
-       y="47.449162"
-       id="text33"><tspan
+       x="64.998169"
+       y="117.619"
+       id="text826"><tspan
          sodipodi:role="line"
-         id="tspan31"
-         x="45.932621"
-         y="47.449162"
-         style="stroke-width:0.26458332">KM</tspan></text>
+         id="tspan824"
+         x="64.998169"
+         y="117.619"
+         style="font-size:31.75px;stroke-width:0.26458332">99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.80692101px;line-height:1.25;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.9991"
+       y="132.96352"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="64.9991"
+         y="132.96352"
+         style="font-size:14.8166666px;fill:#ffffff;stroke-width:0.26458332">999</tspan></text>
   </g>
 </svg>

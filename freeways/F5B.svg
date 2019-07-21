@@ -39,7 +39,59 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:object-nodes="false" />
+     inkscape:object-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="44,189.27593"
+       orientation="1,0"
+       id="guide815"
+       inkscape:locked="false"
+       inkscape:label="signPaddingW"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="74.090016,216"
+       orientation="0,1"
+       id="guide817"
+       inkscape:locked="false"
+       inkscape:label="signPaddingN"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="86,207.00587"
+       orientation="1,0"
+       id="guide819"
+       inkscape:locked="false"
+       inkscape:label="signPaddingE"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="56.242659,164"
+       orientation="0,1"
+       id="guide821"
+       inkscape:locked="false"
+       inkscape:label="signPaddingS"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="52.015653,174"
+       orientation="0,1"
+       id="guide823"
+       inkscape:locked="false"
+       inkscape:label="meterNumeralHeight"
+       inkscape:color="rgb(146,255,225)" />
+    <sodipodi:guide
+       position="60,215"
+       orientation="0,1"
+       id="guide825"
+       inkscape:locked="false"
+       inkscape:label="unitTextHeight"
+       inkscape:color="rgb(223,0,255)" />
+    <sodipodi:guide
+       position="49.784734,179"
+       orientation="0,1"
+       id="guide827"
+       inkscape:locked="false"
+       inkscape:label="kiloMeterNumeralBaseline"
+       inkscape:color="rgb(224,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>

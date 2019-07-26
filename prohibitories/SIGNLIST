@@ -18,11 +18,11 @@ P2D3 -> vehicle width limit (batas lebar kendaraan)
 P2D5 -> maximum total weight limit (batas berat kendaraan maksimum)
 P2D6 -> maximum heaviest axle load limit, single wheel (batas muatan sumbu
 terberat, roda tunggal)
-P2D7 -> maximum heaviest axle load limit, double wheels (batas muatan sumbu
+P2D7 -> maximum heaviest axle load limit, double wheel (batas muatan sumbu
 terberat, roda ganda)
 P2D8 -> maximum load limit for vehicles with single wheel on end of axle
 (batas muatan bagi kendaraan dengan roda tunggal pada ujung sumbu)
-P2D9 -> maximum load limit for vehicles with double wheels on end of axle
+P2D9 -> maximum load limit for vehicles with double wheel on end of axle
 (batas muatan bagi kendaraan dengan roda ganda pada ujung sumbu)
 
 # road class limit

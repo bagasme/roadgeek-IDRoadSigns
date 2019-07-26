@@ -19,6 +19,7 @@ P2D5 -> maximum total weight limit (batas berat kendaraan maksimum)
 P2D6 -> maximum heaviest axle load limit, single wheel (batas muatan sumbu
 terberat, roda tunggal)
 P2D7 -> maximum heaviest axle load limit, double wheels (batas muatan sumbu terberat, roda ganda)
+P2D8 -> maximum load limit for vehicles with single wheel on end of axle (batas muatan bagi kendaraan dengan roda tunggal pada ujung sumbu)
 
 # road class limit
 # in the regulation (description of signs), maximum vehicle dimensions

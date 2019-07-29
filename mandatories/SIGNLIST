@@ -5,6 +5,9 @@ M1A -> direction to the left (perintah ke arah kiri)
 M1B -> direction to the right (perintah ke arah kanan)
 M1C -> direction turn to the left (perintah belok ke arah kiri)
 M1D -> direction turn to the right (perintah belok ke arah kanan)
+M1E -> direction straight (perintah berjalan lurus)
+M1F -> follow direction pointed on roundabout (perintah mengikuti arah
+yang ditunjukkan saat memasuki bundaran)
 
 # minimum speed limit
 M4 -> minimum speed limit (batas kecepatan minimal)

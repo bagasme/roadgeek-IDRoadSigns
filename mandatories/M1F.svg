@@ -63,17 +63,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path886"
-       cx="60"
-       cy="117"
-       r="29.950001" />
-    <circle
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path880"
-       cx="60"
-       cy="117"
-       r="28" />
+    <g
+       id="g1463">
+      <circle
+         r="29.950001"
+         cy="117"
+         cx="60"
+         id="path886"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="28"
+         cy="117"
+         cx="60"
+         id="path880"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

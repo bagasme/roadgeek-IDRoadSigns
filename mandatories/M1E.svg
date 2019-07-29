@@ -64,24 +64,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1459">
-      <circle
-         r="29.950001"
-         cy="117"
-         cx="60"
-         id="path886"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <circle
-         r="28"
-         cy="117"
-         cx="60"
-         id="path880"
-         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+       id="g1481">
+      <g
+         id="g1459">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path886"
+           cx="60"
+           cy="117"
+           r="29.950001" />
+        <circle
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path880"
+           cx="60"
+           cy="117"
+           r="28" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path690"
+         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.24808779"
+         d="m 60.003015,137.69829 h -8.466507 l 1.452315,-22.63094 -9.843891,3.57701 c -0.602466,0.21253 -1.452316,-1.15691 -1.032851,-1.64509 L 60.003015,96.301715 77.884534,116.99927 c 0.429254,0.48818 -0.433021,1.85762 -1.035486,1.64509 l -9.842385,-3.57701 1.453068,22.63094 z" />
     </g>
-    <path
-       d="m 60.003015,137.69829 h -8.466507 l 1.452315,-22.63094 -9.843891,3.57701 c -0.602466,0.21253 -1.452316,-1.15691 -1.032851,-1.64509 L 60.003015,96.301715 77.884534,116.99927 c 0.429254,0.48818 -0.433021,1.85762 -1.035486,1.64509 l -9.842385,-3.57701 1.453068,22.63094 z"
-       style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.24808779"
-       id="path690"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>

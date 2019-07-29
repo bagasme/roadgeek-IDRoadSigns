@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
      inkscape:cx="226.77164"
-     inkscape:cy="680.31492"
+     inkscape:cy="680.31493"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -64,24 +64,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1463">
-      <circle
-         r="29.950001"
-         cy="117"
-         cx="60"
-         id="path886"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <circle
-         r="28"
-         cy="117"
-         cx="60"
-         id="path880"
-         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+       id="g2039">
+      <g
+         id="g1463">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path886"
+           cx="60"
+           cy="117"
+           r="29.950001" />
+        <circle
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.09999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path880"
+           cx="60"
+           cy="117"
+           r="28" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path606"
+         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.24808775"
+         d="m 70.666009,122.33517 c 0.110584,-1.04295 1.593931,-1.49444 2.082025,-0.4624 l 1.02576,2.1931 c 2.440468,-6.42847 0.171596,-13.77948 -5.548254,-17.76765 l 3.454789,-4.81589 c 8.423428,5.87689 11.397752,16.9399 7.039227,26.16311 l 2.39471,0.32244 c 1.143968,0.15054 1.155408,1.67692 0.175406,2.09643 L 69.339004,135.0845 Z M 56.874692,107.31784 c -0.969705,0.42892 -2.102616,-0.62457 -1.427293,-1.55764 l 1.416235,-1.95646 c -6.863819,1.08357 -12.224079,6.67453 -12.899402,13.54358 l -5.948643,-0.57001 C 39.017707,106.6519 47.287082,98.622876 57.561073,97.783867 L 56.656576,95.5678 c -0.435471,-1.053482 0.915175,-1.817254 1.754086,-1.181405 l 10.341104,7.750585 z m -6.591553,18.99457 c 0.838911,0.64526 0.435853,2.1284 -0.708118,1.98883 l -2.42941,-0.30101 c 4.226967,5.43934 11.755434,7.44961 18.216192,4.78355 l 2.299379,5.42881 c -9.511725,3.93436 -20.591835,0.55908 -26.213684,-7.97635 l -1.547028,1.83833 c -0.730234,0.88116 -2.059145,0.0752 -1.884881,-0.96771 l 2.015293,-12.65225 z" />
     </g>
-    <path
-       d="m 70.666009,122.33517 c 0.110584,-1.04295 1.593931,-1.49444 2.082025,-0.4624 l 1.02576,2.1931 c 2.440468,-6.42847 0.171596,-13.77948 -5.548254,-17.76765 l 3.454789,-4.81589 c 8.423428,5.87689 11.397752,16.9399 7.039227,26.16311 l 2.39471,0.32244 c 1.143968,0.15054 1.155408,1.67692 0.175406,2.09643 L 69.339004,135.0845 Z M 56.874692,107.31784 c -0.969705,0.42892 -2.102616,-0.62457 -1.427293,-1.55764 l 1.416235,-1.95646 c -6.863819,1.08357 -12.224079,6.67453 -12.899402,13.54358 l -5.948643,-0.57001 C 39.017707,106.6519 47.287082,98.622876 57.561073,97.783867 L 56.656576,95.5678 c -0.435471,-1.053482 0.915175,-1.817254 1.754086,-1.181405 l 10.341104,7.750585 z m -6.591553,18.99457 c 0.838911,0.64526 0.435853,2.1284 -0.708118,1.98883 l -2.42941,-0.30101 c 4.226967,5.43934 11.755434,7.44961 18.216192,4.78355 l 2.299379,5.42881 c -9.511725,3.93436 -20.591835,0.55908 -26.213684,-7.97635 l -1.547028,1.83833 c -0.730234,0.88116 -2.059145,0.0752 -1.884881,-0.96771 l 2.015293,-12.65225 z"
-       style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.24808775"
-       id="path606"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>

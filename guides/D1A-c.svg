@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -17,7 +18,34 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="D1A-c.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath820">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 24 57 C 21.784001 57 20 58.784001 20 61 L 20 113 C 20 115.216 21.784001 117 24 117 L 116 117 C 118.216 117 120 115.216 120 113 L 120 61 C 120 58.784001 118.216 57 116 57 L 24 57 z "
+         xlink:href="#rect834"
+         style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path822"
+         inkscape:href="#rect834"
+         d="m 24,57 c -2.215999,0 -4,1.784001 -4,4 v 52 c 0,2.216 1.784001,4 4,4 h 92 c 2.216,0 4,-1.784 4,-4 V 61 c 0,-2.215999 -1.784,-4 -4,-4 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath828">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 24 57 C 21.784001 57 20 58.784001 20 61 L 20 113 C 20 115.216 21.784001 117 24 117 L 116 117 C 118.216 117 120 115.216 120 113 L 120 61 C 120 58.784001 118.216 57 116 57 L 24 57 z "
+         xlink:href="#rect834"
+         style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path830"
+         inkscape:href="#rect834"
+         d="m 24,57 c -2.215999,0 -4,1.784001 -4,4 v 52 c 0,2.216 1.784001,4 4,4 h 92 c 2.216,0 4,-1.784 4,-4 V 61 c 0,-2.215999 -1.784,-4 -4,-4 z" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="355.71429"
-     inkscape:cy="548.57143"
+     inkscape:zoom="2.2533681"
+     inkscape:cx="264.56693"
+     inkscape:cy="793.70079"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -62,5 +90,25 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect834"
+       width="100"
+       height="60"
+       x="20"
+       y="57"
+       rx="3.9999974"
+       ry="3.9999974" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-0.82499999"
+       inkscape:original="M 24 57 C 21.784001 57 20 58.784001 20 61 L 20 113 C 20 115.216 21.784001 117 24 117 L 116 117 C 118.216 117 120 115.216 120 113 L 120 61 C 120 58.784001 118.216 57 116 57 L 24 57 z "
+       xlink:href="#rect834"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path824"
+       inkscape:href="#rect834"
+       d="m 24,57.824219 c -1.773219,0 -3.175781,1.402562 -3.175781,3.175781 v 52 c 0,1.77322 1.402562,3.17578 3.175781,3.17578 h 92 c 1.77322,0 3.17578,-1.40256 3.17578,-3.17578 V 61 c 0,-1.773219 -1.40256,-3.175781 -3.17578,-3.175781 z"
+       clip-path="url(#clipPath828)" />
+  </g>
 </svg>

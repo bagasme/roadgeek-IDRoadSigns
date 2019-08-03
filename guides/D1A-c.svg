@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="100mm"
+   height="60mm"
+   viewBox="0 0 100 60"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
-     inkscape:cx="264.56692"
-     inkscape:cy="793.70077"
+     inkscape:cx="188.97637"
+     inkscape:cy="113.38582"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,28 +71,28 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
-       position="25.825,214.40313"
+       position="5.8249999,34.403129"
        orientation="1,0"
        id="guide818"
        inkscape:locked="false"
        inkscape:label="paddingW"
        inkscape:color="rgb(136,255,233)" />
     <sodipodi:guide
-       position="37.455967,185.825"
+       position="17.455967,5.8249995"
        orientation="0,1"
        id="guide820"
        inkscape:locked="false"
        inkscape:label="paddingS"
        inkscape:color="rgb(136,255,233)" />
     <sodipodi:guide
-       position="61.408999,234.175"
+       position="41.408999,54.174999"
        orientation="0,1"
        id="guide822"
        inkscape:locked="false"
        inkscape:label="paddingN"
        inkscape:color="rgb(136,255,233)" />
     <sodipodi:guide
-       position="114.175,214.875"
+       position="94.175,34.874999"
        orientation="1,0"
        id="guide824"
        inkscape:locked="false"
@@ -125,7 +125,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-20,-57)">
     <rect
        style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect834"

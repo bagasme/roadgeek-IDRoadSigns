@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2533681"
-     inkscape:cx="260.32285"
-     inkscape:cy="790.15055"
+     inkscape:cx="264.56692"
+     inkscape:cy="793.70077"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -172,5 +172,27 @@
          x="52.909451"
          y="77.929955"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Roadgeek 2005 Series 2B';-inkscape-font-specification:'Roadgeek 2005 Series 2B';fill:#ffffff;stroke-width:0.26458332">Bulak Kapal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.909451"
+       y="98.214897"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="29.909451"
+         y="98.214897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Roadgeek 2005 Series 2B';-inkscape-font-specification:'Roadgeek 2005 Series 2B';fill:#ffffff;stroke-width:0.26458332">Kranji</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.746"
+       y="106.7981"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="25.746"
+         y="106.7981"
+         style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332">Stasiun KA Bekasi</tspan></text>
   </g>
 </svg>

@@ -201,5 +201,38 @@
          x="25.746"
          y="106.7981"
          style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332">Stasiun KA Bekasi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="92.284103"
+       y="91.485802"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="92.284103"
+         y="91.485802"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Roadgeek 2005 Series 2B';-inkscape-font-specification:'Roadgeek 2005 Series 2B';fill:#ffffff;stroke-width:0.26458332">Jakarta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="91.909447"
+       y="98.678238"
+       id="text865"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="91.909447"
+         y="98.678238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Roadgeek 2005 Series 2B';-inkscape-font-specification:'Roadgeek 2005 Series 2B';fill:#ffffff;stroke-width:0.26458332">Bandung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Roadgeek 2005 Series 1B';-inkscape-font-specification:'Roadgeek 2005 Series 1B';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.447548"
+       y="107.15945"
+       id="text871"><tspan
+         sodipodi:role="line"
+         id="tspan869"
+         x="80.447548"
+         y="107.15945"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Lewat Jalan Tol</tspan></text>
   </g>
 </svg>

@@ -37,3 +37,7 @@ D6A1 -> mosque (masjid)
 D6A2 -> church (gereja)
 D6A3 -> vihara (wihara)
 D6A4 -> temple (pura)
+# government and public services
+D6B1 -> hospital (rumah sakit)
+D6B2 -> clinic (klinik kesehatan/puskesmas)
+D6B3 -> drugstore (apotek)

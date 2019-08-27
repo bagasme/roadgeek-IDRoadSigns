@@ -63,19 +63,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1968"
-       width="50"
-       height="60"
-       x="50"
-       y="77"
-       rx="3.7"
-       ry="3.7" />
-    <path
-       d="M 67.891189,87.076407 H 82.107305 V 99.926348 H 95 V 114.07441 H 82.107305 v 12.84918 H 67.891189 V 114.07441 H 55.000001 V 99.926348 h 12.891188 z"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23269163"
-       id="path726"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g3697">
+      <rect
+         ry="3.7"
+         rx="3.7"
+         y="77"
+         x="50"
+         height="60"
+         width="50"
+         id="rect1968"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path726"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23269163"
+         d="M 67.891189,87.076407 H 82.107305 V 99.926348 H 95 V 114.07441 H 82.107305 v 12.84918 H 67.891189 V 114.07441 H 55.000001 V 99.926348 h 12.891188 z" />
+    </g>
   </g>
 </svg>
